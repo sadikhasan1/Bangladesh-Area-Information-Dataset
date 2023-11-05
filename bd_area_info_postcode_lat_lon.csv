@@ -1,31 +1,4 @@
 country,division,district,thana,area,postal_code,latitude,longitude
-Bangladesh,Barishal,Barishal,Agailzhara,Paisarhat,8242,22.9721441,90.080273
-Bangladesh,Chittagong,Brahmanbaria,Sarail,Shahbajpur,3431,24.0360461,91.1541215
-Bangladesh,Chittagong,Chandpur,Hajiganj,Hajiganj,3610,23.2513029,90.8455153
-Bangladesh,Chittagong,Chittagong,Rangunia,Rangunia,4360,22.4701195,92.0256148
-Bangladesh,Chittagong,Chittagong,Rouzan,Gahira,4343,22.5197223,91.8630946
-Bangladesh,Chittagong,Chittagong,Rouzan,Kundeshwari,4342,22.5363796,91.8320121
-Bangladesh,Chittagong,Chittagong,Sitakunda,Bawashbaria,4313,22.5443774,91.6654024
-Bangladesh,Chittagong,Chittagong,Sitakunda,Jafrabad,4317,22.39435057,91.762179887
-Bangladesh,Chittagong,Chittagong,Sitakunda,Kumira,4314,22.5183407,91.7046617
-Bangladesh,Chittagong,Comilla,Chandina,Madhaiabazar,3511,23.50289993,90.93858985
-Bangladesh,Chittagong,Comilla,Chouddagram,Chouddagram,3550,23.4267271,91.1690136
-Bangladesh,Dhaka,Dhaka,Nawabganj,Churain,1325,23.6151736,90.2178544
-Bangladesh,Sylhet,Hobiganj,Hobiganj Sadar,Shaestaganj,3301,24.2762686,91.4456677
-Bangladesh,Sylhet,Hobiganj,Nabiganj,Inathganj,3374,24.6512266,91.5461324
-Bangladesh,Khulna,Jinaidaha,Kotchandpur,Kotchandpur,7330,23.4078157,89.0054369
-Bangladesh,Dhaka,Manikganj,Doulatpur,Doulatpur,1860,23.9650471,89.7355102
-Bangladesh,Mymensingh,Netrakona,Netrakona Sadar,Netrakona Sadar,2400,24.8870691,90.7322264
-Bangladesh,Sylhet,Sunamganj,Duara bazar,Duara bazar,3070,25.0541405,91.5573406
-Bangladesh,Khulna,Bagherhat,Fakirhat,Fakirhat,9370,22.746826,89.6720377
-Bangladesh,Khulna,Bagherhat,Fakirhat,Mansa,9371,22.79185455,89.67372385
-Bangladesh,Khulna,Bagherhat,Kachua UPO,Kachua,9310,23.90501325,90.2151312883502
-Bangladesh,Khulna,Bagherhat,Kachua UPO,Sonarkola,9311,23.90501325,90.2151312883502
-Bangladesh,Khulna,Bagherhat,Mollahat,Charkulia,9383,23.90501325,90.2151312883502
-Bangladesh,Khulna,Bagherhat,Mollahat,Dariala,9382,23.90501325,90.2151312883502
-Bangladesh,Khulna,Bagherhat,Mollahat,Kahalpur,9381,23.90501325,90.2151312883502
-Bangladesh,Khulna,Bagherhat,Mollahat,Mollahat,9380,23.90501325,90.2151312883502
-Bangladesh,Chittagong,Bandarban,Thanchi,Thanchi,4630,23.90501325,90.2151312883502
 Bangladesh,Barishal,Barguna,Amtali,Amtali,8710,22.08180538,90.19249692
 Bangladesh,Barishal,Barguna,Bamna,Bamna,8730,23.90501325,90.2151312883502
 Bangladesh,Barishal,Barguna,Barguna Sadar,Barguna Sadar,8700,22.1614057,90.1215241333333
@@ -36,6 +9,7 @@ Bangladesh,Barishal,Barguna,Patharghata,Kakchira,8721,23.90501325,90.21513128835
 Bangladesh,Barishal,Barguna,Patharghata,Patharghata,8720,23.90501325,90.2151312883502
 Bangladesh,Barishal,Barishal,Agailzhara,Agailzhara,8240,23.90501325,90.2151312883502
 Bangladesh,Barishal,Barishal,Agailzhara,Gaila,8241,23.90501325,90.2151312883502
+Bangladesh,Barishal,Barishal,Agailzhara,Paisarhat,8242,22.9721441,90.080273
 Bangladesh,Barishal,Barishal,Babuganj,Babuganj,8210,23.90501325,90.2151312883502
 Bangladesh,Barishal,Barishal,Babuganj,Barishal Cadet,8216,23.90501325,90.2151312883502
 Bangladesh,Barishal,Barishal,Babuganj,Chandpasha,8212,23.90501325,90.2151312883502
@@ -52,30 +26,6 @@ Bangladesh,Barishal,Barishal,Barishal Sadar,Kashipur,8205,23.90501325,90.2151312
 Bangladesh,Barishal,Barishal,Barishal Sadar,Patang,8204,23.90501325,90.2151312883502
 Bangladesh,Barishal,Barishal,Barishal Sadar,Saheberhat,8202,23.90501325,90.2151312883502
 Bangladesh,Barishal,Barishal,Barishal Sadar,Sugandia,8203,23.90501325,90.2151312883502
-Bangladesh,Khulna,Bagherhat,Rampal,Foylahat,9341,23.90501325,90.2151312883502
-Bangladesh,Khulna,Bagherhat,Rampal,Gourambha,9343,23.90501325,90.2151312883502
-Bangladesh,Khulna,Bagherhat,Rampal,Rampal,9340,23.90501325,90.2151312883502
-Bangladesh,Khulna,Bagherhat,Rampal,Sonatunia,9342,23.90501325,90.2151312883502
-Bangladesh,Khulna,Bagherhat,Rayenda,Rayenda,9330,22.3146405833333,89.8498243
-Bangladesh,Chittagong,Bandarban,Alikadam,Alikadam,4650,23.90501325,90.2151312883502
-Bangladesh,Chittagong,Bandarban,Bandarban Sadar,Bandarban Sadar,4600,23.90501325,90.2151312883502
-Bangladesh,Chittagong,Bandarban,Lama,Lama,4641,23.90501325,90.2151312883502
-Bangladesh,Chittagong,Bandarban,Naikhingchhari,Naikhongchhari,4660,23.90501325,90.2151312883502
-Bangladesh,Chittagong,Bandarban,Roangchhari,Roangchhari,4610,23.90501325,90.2151312883502
-Bangladesh,Chittagong,Bandarban,Ruma,Ruma,4620,23.90501325,90.2151312883502
-Bangladesh,Khulna,Bagherhat,Bagerhat Sadar,Bagerhat Sadar,9300,22.6610090166667,89.7650664333333
-Bangladesh,Khulna,Bagherhat,Bagerhat Sadar,P.C College,9301,23.90501325,90.2151312883502
-Bangladesh,Khulna,Bagherhat,Bagerhat Sadar,Rangdia,9302,23.90501325,90.2151312883502
-Bangladesh,Khulna,Bagherhat,Chalna Ankorage,Chalna Ankorage,9350,22.473239,89.6050839
-Bangladesh,Khulna,Bagherhat,Chalna Ankorage,Mongla Port,9351,23.90501325,90.2151312883502
-Bangladesh,Khulna,Bagherhat,Chitalmari,Barabaria,9361,23.90501325,90.2151312883502
-Bangladesh,Khulna,Bagherhat,Chitalmari,Chitalmari,9360,22.78730438,89.87878926
-Bangladesh,Khulna,Bagherhat,Fakirhat,Bhanganpar Bazar,9372,23.90501325,90.2151312883502
-Bangladesh,Khulna,Bagherhat,Mollahat,Nagarkandi,9384,23.90501325,90.2151312883502
-Bangladesh,Khulna,Bagherhat,Mollahat,Pak Gangni,9385,23.90501325,90.2151312883502
-Bangladesh,Khulna,Bagherhat,Morelganj,Morelganj,9320,23.90501325,90.2151312883502
-Bangladesh,Khulna,Bagherhat,Morelganj,Sannasi Bazar,9321,23.90501325,90.2151312883502
-Bangladesh,Khulna,Bagherhat,Morelganj,Telisatee,9322,23.90501325,90.2151312883502
 Bangladesh,Barishal,Barishal,Gouranadi,Batajor,8233,22.8993692310345,90.3035791965517
 Bangladesh,Barishal,Barishal,Gouranadi,Gouranadi,8230,22.9711911888889,90.2283354388889
 Bangladesh,Barishal,Barishal,Gouranadi,Kashemabad,8232,23.90501325,90.2151312883502
@@ -112,26 +62,65 @@ Bangladesh,Barishal,Bhola,Hatshoshiganj,Hatshoshiganj,8350,23.90501325,90.215131
 Bangladesh,Barishal,Bhola,Lalmohan UPO,Daurihat,8331,23.90501325,90.2151312883502
 Bangladesh,Barishal,Bhola,Lalmohan UPO,Gazaria,8332,23.90501325,90.2151312883502
 Bangladesh,Barishal,Bhola,Lalmohan UPO,Lalmohan UPO,8330,22.3333501,90.7304672
-Bangladesh,Rajshahi,Bogra,Alamdighi,Adamdighi,5890,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Bogra,Alamdighi,Nasharatpur,5892,24.8044345,89.0753687
-Bangladesh,Rajshahi,Bogra,Alamdighi,Santahar,5891,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Bogra,Bogra Sadar,Bogra Canttonment,5801,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Bogra,Bogra Sadar,Bogra Sadar,5800,24.8518764407407,89.3695843481481
-Bangladesh,Rajshahi,Bogra,Dhunat,Dhunat,5850,24.6834148,89.5393988
-Bangladesh,Rajshahi,Bogra,Dhunat,Gosaibari,5851,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Bogra,Dupchachia,Dupchachia,5880,24.894188925,89.126878275
-Bangladesh,Rajshahi,Bogra,Dupchachia,Talora,5881,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Bogra,Gabtoli,Gabtoli,5820,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Bogra,Gabtoli,Sukhanpukur,5821,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Bogra,Kahalu,Kahalu,5870,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Bogra,Nandigram,Nandigram,5860,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Bogra,Sariakandi,Chandan Baisha,5831,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Bogra,Sariakandi,Sariakandi,5830,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Bogra,Sherpur,Chandaikona,5841,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Bogra,Sherpur,Palli Unnyan Accadem,5842,24.7062006,89.3949899
-Bangladesh,Rajshahi,Bogra,Sherpur,Sherpur,5840,24.670249,89.4174000142857
-Bangladesh,Rajshahi,Bogra,Shibganj,Shibganj,5810,25.0871927222222,89.3262542333333
-Bangladesh,Rajshahi,Bogra,Sonatola,Sonatola,5826,25.0377685333333,89.5017975333333
+Bangladesh,Barishal,Jhalokathi,Jhalokathi Sadar,Baukathi,8402,23.90501325,90.2151312883502
+Bangladesh,Barishal,Jhalokathi,Jhalokathi Sadar,Gabha,8403,23.90501325,90.2151312883502
+Bangladesh,Barishal,Jhalokathi,Jhalokathi Sadar,Jhalokathi Sadar,8400,22.6425635,90.20044195625
+Bangladesh,Barishal,Jhalokathi,Jhalokathi Sadar,Nabagram,8401,23.90501325,90.2151312883502
+Bangladesh,Barishal,Jhalokathi,Jhalokathi Sadar,Shekherhat,8404,22.6205628,90.10622895
+Bangladesh,Barishal,Jhalokathi,Kathalia,Amua,8431,23.90501325,90.2151312883502
+Bangladesh,Barishal,Jhalokathi,Kathalia,Kathalia,8430,23.90501325,90.2151312883502
+Bangladesh,Barishal,Jhalokathi,Kathalia,Niamatee,8432,23.90501325,90.2151312883502
+Bangladesh,Barishal,Jhalokathi,Kathalia,Shoulajalia,8433,23.90501325,90.2151312883502
+Bangladesh,Barishal,Jhalokathi,Nalchhiti,Beerkathi,8421,23.90501325,90.2151312883502
+Bangladesh,Barishal,Jhalokathi,Nalchhiti,Nalchhiti,8420,23.90501325,90.2151312883502
+Bangladesh,Barishal,Jhalokathi,Rajapur,Rajapur,8410,23.90501325,90.2151312883502
+Bangladesh,Barishal,Patuakhali,Bauphal,Bagabandar,8621,23.90501325,90.2151312883502
+Bangladesh,Barishal,Patuakhali,Bauphal,Bauphal,8620,22.40105035,90.49725315
+Bangladesh,Barishal,Patuakhali,Bauphal,Birpasha,8622,23.90501325,90.2151312883502
+Bangladesh,Barishal,Patuakhali,Bauphal,Kalaia,8624,23.90501325,90.2151312883502
+Bangladesh,Barishal,Patuakhali,Bauphal,Kalishari,8623,23.90501325,90.2151312883502
+Bangladesh,Barishal,Patuakhali,Dashmina,Dashmina,8630,22.2832456,90.5622027
+Bangladesh,Barishal,Patuakhali,Galachipa,Galachipa,8640,23.90501325,90.2151312883502
+Bangladesh,Barishal,Patuakhali,Galachipa,Gazipur Bandar,8641,23.90501325,90.2151312883502
+Bangladesh,Barishal,Patuakhali,Khepupara,Khepupara,8650,21.9897493,90.2228075
+Bangladesh,Barishal,Patuakhali,Khepupara,Mahipur,8651,23.90501325,90.2151312883502
+Bangladesh,Barishal,Patuakhali,Patuakhali Sadar,Dumkee,8602,22.4654801976744,90.3828595046512
+Bangladesh,Barishal,Patuakhali,Patuakhali Sadar,Moukaran,8601,23.90501325,90.2151312883502
+Bangladesh,Barishal,Patuakhali,Patuakhali Sadar,Patuakhali Sadar,8600,22.3540867681818,90.3386862590909
+Bangladesh,Barishal,Patuakhali,Patuakhali Sadar,Rahimabad,8603,23.90501325,90.2151312883502
+Bangladesh,Barishal,Patuakhali,Subidkhali,Subidkhali,8610,23.90501325,90.2151312883502
+Bangladesh,Barishal,Pirojpur,Banaripara,Banaripara,8530,22.7779995,90.1112407666667
+Bangladesh,Barishal,Pirojpur,Banaripara,Chakhar,8531,23.90501325,90.2151312883502
+Bangladesh,Barishal,Pirojpur,Bhandaria,Bhandaria,8550,22.4848224,90.0600712
+Bangladesh,Barishal,Pirojpur,Bhandaria,Dhaoa,8552,23.90501325,90.2151312883502
+Bangladesh,Barishal,Pirojpur,Bhandaria,Kanudashkathi,8551,23.90501325,90.2151312883502
+Bangladesh,Barishal,Pirojpur,kaukhali,Jolagati,8513,23.90501325,90.2151312883502
+Bangladesh,Barishal,Pirojpur,kaukhali,Joykul,8512,23.90501325,90.2151312883502
+Bangladesh,Barishal,Pirojpur,kaukhali,Kaukhali,8510,22.6223123117647,90.0643565411765
+Bangladesh,Barishal,Pirojpur,kaukhali,Keundia,8511,23.90501325,90.2151312883502
+Bangladesh,Barishal,Pirojpur,Mathbaria,Betmor Natun Hat,8565,23.90501325,90.2151312883502
+Bangladesh,Barishal,Pirojpur,Mathbaria,Gulishakhali,8563,23.90501325,90.2151312883502
+Bangladesh,Barishal,Pirojpur,Mathbaria,Halta,8562,23.90501325,90.2151312883502
+Bangladesh,Barishal,Pirojpur,Mathbaria,Mathbaria,8560,22.291689975,89.968578825
+Bangladesh,Barishal,Pirojpur,Mathbaria,Shilarganj,8566,23.90501325,90.2151312883502
+Bangladesh,Barishal,Pirojpur,Mathbaria,Tiarkhali,8564,23.90501325,90.2151312883502
+Bangladesh,Barishal,Pirojpur,Mathbaria,Tushkhali,8561,23.90501325,90.2151312883502
+Bangladesh,Barishal,Pirojpur,Nazirpur,Nazirpur,8540,23.90501325,90.2151312883502
+Bangladesh,Barishal,Pirojpur,Nazirpur,Sriramkathi,8541,23.90501325,90.2151312883502
+Bangladesh,Barishal,Pirojpur,Pirojpur Sadar,Hularhat,8501,23.90501325,90.2151312883502
+Bangladesh,Barishal,Pirojpur,Pirojpur Sadar,Parerhat,8502,23.90501325,90.2151312883502
+Bangladesh,Barishal,Pirojpur,Pirojpur Sadar,Pirojpur Sadar,8500,22.571957,89.9720518333333
+Bangladesh,Barishal,Pirojpur,Swarupkathi,Darus Sunnat,8521,23.90501325,90.2151312883502
+Bangladesh,Barishal,Pirojpur,Swarupkathi,Jalabari,8523,23.90501325,90.2151312883502
+Bangladesh,Barishal,Pirojpur,Swarupkathi,Kaurikhara,8522,22.754885,90.0862571
+Bangladesh,Barishal,Pirojpur,Swarupkathi,Swarupkathi,8520,23.90501325,90.2151312883502
+Bangladesh,Chittagong,Bandarban,Alikadam,Alikadam,4650,23.90501325,90.2151312883502
+Bangladesh,Chittagong,Bandarban,Bandarban Sadar,Bandarban Sadar,4600,23.90501325,90.2151312883502
+Bangladesh,Chittagong,Bandarban,Lama,Lama,4641,23.90501325,90.2151312883502
+Bangladesh,Chittagong,Bandarban,Naikhingchhari,Naikhongchhari,4660,23.90501325,90.2151312883502
+Bangladesh,Chittagong,Bandarban,Roangchhari,Roangchhari,4610,23.90501325,90.2151312883502
+Bangladesh,Chittagong,Bandarban,Ruma,Ruma,4620,23.90501325,90.2151312883502
+Bangladesh,Chittagong,Bandarban,Thanchi,Thanchi,4630,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Brahmanbaria,Akhaura,Akhaura,3450,23.96555614,91.21308966
 Bangladesh,Chittagong,Brahmanbaria,Akhaura,Azampur,3451,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Brahmanbaria,Akhaura,Gangasagar,3452,23.90501325,90.2151312883502
@@ -159,6 +148,7 @@ Bangladesh,Chittagong,Brahmanbaria,Nasirnagar,Fandauk,3441,23.90501325,90.215131
 Bangladesh,Chittagong,Brahmanbaria,Nasirnagar,Nasirnagar,3440,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Brahmanbaria,Sarail,Chandura,3432,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Brahmanbaria,Sarail,Sarial,3430,23.90501325,90.2151312883502
+Bangladesh,Chittagong,Brahmanbaria,Sarail,Shahbajpur,3431,24.0360461,91.1541215
 Bangladesh,Chittagong,Chandpur,Chandpur Sadar,Baburhat,3602,23.2289522,90.66081159
 Bangladesh,Chittagong,Chandpur,Chandpur Sadar,Chandpur Sadar,3600,23.1932267285714,90.6647913
 Bangladesh,Chittagong,Chandpur,Chandpur Sadar,Puranbazar,3601,23.2198404,90.6514129
@@ -170,6 +160,7 @@ Bangladesh,Chittagong,Chandpur,Faridganj,Islampur Shah Isain,3655,23.90501325,90
 Bangladesh,Chittagong,Chandpur,Faridganj,Rampurbazar,3654,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Chandpur,Faridganj,Rupsha,3652,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Chandpur,Hajiganj,Bolakhal,3611,23.90501325,90.2151312883502
+Bangladesh,Chittagong,Chandpur,Hajiganj,Hajiganj,3610,23.2513029,90.8455153
 Bangladesh,Chittagong,Chandpur,Hayemchar,Gandamara,3661,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Chandpur,Hayemchar,Hayemchar,3660,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Chandpur,Kachua,Kachua,3630,23.90501325,90.2151312883502
@@ -184,18 +175,6 @@ Bangladesh,Chittagong,Chandpur,Shahrasti,Islamia Madrasha,3624,23.90501325,90.21
 Bangladesh,Chittagong,Chandpur,Shahrasti,Khilabazar,3621,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Chandpur,Shahrasti,Pashchim Kherihar Al,3622,23.1395254,90.9611826
 Bangladesh,Chittagong,Chandpur,Shahrasti,Shahrasti,3620,23.2253322,90.9500961
-Bangladesh,Rajshahi,Chapinawabganj,Bholahat,Bholahat,6330,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Chapinawabganj,Chapinawabganj Sadar,Amnura,6303,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Chapinawabganj,Chapinawabganj Sadar,Chapinawbganj Sadar,6300,24.5701902125,88.3105802875
-Bangladesh,Rajshahi,Chapinawabganj,Chapinawabganj Sadar,Rajarampur,6301,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Chapinawabganj,Chapinawabganj Sadar,Ramchandrapur,6302,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Chapinawabganj,Nachol,Mandumala,6311,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Chapinawabganj,Nachol,Nachol,6310,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Chapinawabganj,Rohanpur,Gomashtapur,6321,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Chapinawabganj,Rohanpur,Rohanpur,6320,24.8395979,88.3067714
-Bangladesh,Rajshahi,Chapinawabganj,Shibganj U.P.O,Kansart,6341,24.74011784,88.18470558
-Bangladesh,Rajshahi,Chapinawabganj,Shibganj U.P.O,Manaksha,6342,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Chapinawabganj,Shibganj U.P.O,Shibganj U.P.O,6340,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Chittagong,Anawara,Anowara,4376,22.221848325,91.91114285
 Bangladesh,Chittagong,Chittagong,Anawara,Battali,4378,23.8137443,90.372544
 Bangladesh,Chittagong,Chittagong,Anawara,Paroikora,4377,23.90501325,90.2151312883502
@@ -237,7 +216,6 @@ Bangladesh,Chittagong,Chittagong,East Joara,Barma,4383,23.90501325,90.2151312883
 Bangladesh,Chittagong,Chittagong,East Joara,Dohazari,4382,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Chittagong,East Joara,East Joara,4380,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Chittagong,East Joara,Gachbaria,4381,22.2477765,92.0178243
-Bangladesh,Rangpur,Dinajpur,Biral,Biral,5210,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Chittagong,Fatikchhari,Bhandar Sharif,4352,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Chittagong,Fatikchhari,Fatikchhari,4350,22.6624434,91.790892
 Bangladesh,Chittagong,Chittagong,Fatikchhari,Harualchhari,4354,23.90501325,90.2151312883502
@@ -271,12 +249,15 @@ Bangladesh,Chittagong,Chittagong,Mirsharai,Mohazanhat,4328,23.90501325,90.215131
 Bangladesh,Chittagong,Chittagong,Patia Head Office,Budhpara,4371,22.2587172,91.8411929
 Bangladesh,Chittagong,Chittagong,Patia Head Office,Patia Head Office,4370,22.2862618,91.9385286
 Bangladesh,Chittagong,Chittagong,Rangunia,Dhamair,4361,23.90501325,90.2151312883502
+Bangladesh,Chittagong,Chittagong,Rangunia,Rangunia,4360,22.4701195,92.0256148
 Bangladesh,Chittagong,Chittagong,Rouzan,Beenajuri,4341,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Chittagong,Rouzan,B.I.T Post Office,4349,22.4627498477273,91.9709766386364
 Bangladesh,Chittagong,Chittagong,Rouzan,Dewanpur,4347,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Chittagong,Rouzan,Fatepur,4345,23.90501325,90.2151312883502
+Bangladesh,Chittagong,Chittagong,Rouzan,Gahira,4343,22.5197223,91.8630946
 Bangladesh,Chittagong,Chittagong,Rouzan,Guzra Noapara,4346,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Chittagong,Rouzan,jagannath Hat,4344,23.90501325,90.2151312883502
+Bangladesh,Chittagong,Chittagong,Rouzan,Kundeshwari,4342,22.5363796,91.8320121
 Bangladesh,Chittagong,Chittagong,Rouzan,Mohamuni,4348,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Chittagong,Rouzan,Rouzan,4340,22.5347031,91.9105608
 Bangladesh,Chittagong,Chittagong,Sandwip,Sandwip,4300,23.90501325,90.2151312883502
@@ -287,17 +268,12 @@ Bangladesh,Chittagong,Chittagong,Satkania,Bazalia,4388,23.90501325,90.2151312883
 Bangladesh,Chittagong,Chittagong,Satkania,Satkania,4386,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Chittagong,Sitakunda,Barabkunda,4312,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Chittagong,Sitakunda,Baroidhala,4311,22.6813343,91.6249779
+Bangladesh,Chittagong,Chittagong,Sitakunda,Bawashbaria,4313,22.5443774,91.6654024
 Bangladesh,Chittagong,Chittagong,Sitakunda,Bhatiari,4315,22.42903375,91.7487924
 Bangladesh,Chittagong,Chittagong,Sitakunda,Fouzdarhat,4316,23.90501325,90.2151312883502
+Bangladesh,Chittagong,Chittagong,Sitakunda,Jafrabad,4317,22.39435057,91.762179887
+Bangladesh,Chittagong,Chittagong,Sitakunda,Kumira,4314,22.5183407,91.7046617
 Bangladesh,Chittagong,Chittagong,Sitakunda,Sitakunda,4310,23.90501325,90.2151312883502
-Bangladesh,Khulna,Chuadanga,Alamdanga,Alamdanga,7210,23.7588064090909,88.9428634181818
-Bangladesh,Khulna,Chuadanga,Alamdanga,Hardi,7211,23.90501325,90.2151312883502
-Bangladesh,Khulna,Chuadanga,Chuadanga Sadar,Chuadanga Sadar,7200,23.6347404,88.8557416
-Bangladesh,Khulna,Chuadanga,Chuadanga Sadar,Munshiganj,7201,23.90501325,90.2151312883502
-Bangladesh,Khulna,Chuadanga,Damurhuda,Andulbaria,7222,23.90501325,90.2151312883502
-Bangladesh,Khulna,Chuadanga,Damurhuda,Damurhuda,7220,23.90501325,90.2151312883502
-Bangladesh,Khulna,Chuadanga,Damurhuda,Darshana,7221,23.90501325,90.2151312883502
-Bangladesh,Khulna,Chuadanga,Doulatganj,Doulatganj,7230,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Comilla,Barura,Barura,3560,23.4090893833333,91.0415362166667
 Bangladesh,Chittagong,Comilla,Barura,Murdafarganj,3562,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Comilla,Barura,Poyalgachha,3561,23.90501325,90.2151312883502
@@ -305,8 +281,10 @@ Bangladesh,Chittagong,Comilla,Brahmanpara,Brahmanpara,3526,23.6737022,91.0842736
 Bangladesh,Chittagong,Comilla,Burichang,Burichang,3520,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Comilla,Burichang,Maynamoti bazar,3521,23.482203,91.1168357
 Bangladesh,Chittagong,Comilla,Chandina,Chandia,3510,23.45186845,90.95354565
+Bangladesh,Chittagong,Comilla,Chandina,Madhaiabazar,3511,23.50289993,90.93858985
 Bangladesh,Chittagong,Comilla,Chouddagram,Batisa,3551,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Comilla,Chouddagram,Chiora,3552,23.90501325,90.2151312883502
+Bangladesh,Chittagong,Comilla,Chouddagram,Chouddagram,3550,23.4267271,91.1690136
 Bangladesh,Chittagong,Comilla,Comilla Sadar,Comilla Contoment,3501,23.4790509142857,91.1160887285714
 Bangladesh,Chittagong,Comilla,Comilla Sadar,Comilla Sadar,3500,23.4254253741379,91.1920358698276
 Bangladesh,Chittagong,Comilla,Comilla Sadar,Courtbari,3503,23.90501325,90.2151312883502
@@ -348,91 +326,6 @@ Bangladesh,Chittagong,Cox’s Bazar,Teknaf,Hnila,4761,23.90501325,90.21513128835
 Bangladesh,Chittagong,Cox’s Bazar,Teknaf,St.Martin,4762,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Cox’s Bazar,Teknaf,Teknaf,4760,20.8698641333333,92.2951013333333
 Bangladesh,Chittagong,Cox’s Bazar,Ukhia,Ukhia,4750,21.2566809,92.1073482666667
-Bangladesh,Dhaka,Dhaka,Demra,Demra,1360,23.724821564,90.482148196
-Bangladesh,Dhaka,Dhaka,Demra,Matuail,1362,23.7000582923077,90.4684652153846
-Bangladesh,Dhaka,Dhaka,Demra,Sarulia,1361,23.71110882,90.47675966
-Bangladesh,Dhaka,Dhaka,Dhaka Cantt.,Dhaka CantonmentTSO,1206,23.813248691195,90.3891489194969
-Bangladesh,Dhaka,Dhaka,Dhamrai,Dhamrai,1350,23.91644355,90.21813443
-Bangladesh,Dhaka,Dhaka,Dhamrai,Kamalpur,1351,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Dhaka,Dhanmondi,Jigatala TSO,1209,23.7359947993671,90.3822009822785
-Bangladesh,Dhaka,Dhaka,Gulshan,Banani TSO,1213,23.784459894523,90.409811085318
-Bangladesh,Dhaka,Dhaka,Gulshan,Gulshan Model Town,1212,23.7855280378738,90.4165796921927
-Bangladesh,Dhaka,Dhaka,Jatrabari,Dhania TSO,1232,23.7083840166667,90.4350518833333
-Bangladesh,Dhaka,Dhaka,Joypara,Joypara,1330,23.6268683173913,90.0954072695652
-Bangladesh,Dhaka,Dhaka,Joypara,Narisha,1332,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Dhaka,Joypara,Palamganj,1331,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Dhaka,Keraniganj,Ati,1312,23.7249438642857,90.3450942857143
-Bangladesh,Dhaka,Dhaka,Keraniganj,Dhaka Jute Mills,1311,23.63774995,90.4602401
-Bangladesh,Dhaka,Dhaka,Keraniganj,Kalatia,1313,23.7286319,90.2935705
-Bangladesh,Dhaka,Dhaka,Keraniganj,Keraniganj,1310,23.7040163307692,90.3930811615385
-Bangladesh,Dhaka,Dhaka,Khilgaon,KhilgaonTSO,1219,23.757773051087,90.4253521160326
-Bangladesh,Dhaka,Dhaka,Khilkhet,KhilkhetTSO,1229,23.8227995392405,90.4250953088608
-Bangladesh,Dhaka,Dhaka,Lalbag,Posta TSO,1211,23.7253397258824,90.3878354717647
-Bangladesh,Dhaka,Dhaka,Mirpur,Mirpur TSO,1216,23.80839569494,90.36782245506
-Bangladesh,Dhaka,Dhaka,Mohammadpur,Mohammadpur Housing,1207,23.7643517221373,90.36303918549
-Bangladesh,Dhaka,Dhaka,Mohammadpur,Sangsad BhabanTSO,1225,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Dhaka,Motijheel,BangabhabanTSO,1222,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Dhaka,Motijheel,DilkushaTSO,1223,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Dhaka,Nawabganj,Agla,1323,23.6424197,90.2060281
-Bangladesh,Dhaka,Dhaka,Nawabganj,Daudpur,1322,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Dhaka,Nawabganj,Hasnabad,1321,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Dhaka,Nawabganj,Khalpar,1324,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Dhaka,Nawabganj,Nawabganj,1320,22.001277,90.3002881483381
-Bangladesh,Dhaka,Dhaka,New market,New Market TSO,1205,23.7399848350217,90.3831364149059
-Bangladesh,Dhaka,Dhaka,Palton,Dhaka GPO,1000,23.7325555809524,90.4063016268708
-Bangladesh,Dhaka,Dhaka,Ramna,Shantinagr TSO,1217,23.743677530625,90.41254877375
-Bangladesh,Dhaka,Dhaka,Sabujbag,Basabo TSO,1214,23.7408146166667,90.4342628666667
-Bangladesh,Dhaka,Dhaka,Savar,Amin Bazar,1348,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Dhaka,Savar,Dairy Farm,1341,23.8982365125,90.3092774875
-Bangladesh,Dhaka,Dhaka,Savar,EPZ,1349,23.94792958,90.2792810533333
-Bangladesh,Dhaka,Dhaka,Savar,Jahangirnagar Univer,1342,23.8836347465116,90.2676794
-Bangladesh,Dhaka,Dhaka,Savar,Kashem Cotton Mills,1346,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Dhaka,Savar,Rajphulbaria,1347,23.80767628,90.25808122
-Bangladesh,Dhaka,Dhaka,Savar,Savar,1340,23.8485849973684,90.2624838842105
-Bangladesh,Dhaka,Dhaka,Savar,Savar Canttonment,1344,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Dhaka,Savar,Saver P.A.T.C,1343,23.8740617555556,90.2637860888889
-Bangladesh,Dhaka,Dhaka,Savar,Shimulia,1345,23.8963707666667,90.2781347333333
-Bangladesh,Dhaka,Dhaka,Sutrapur,Dhaka Sadar HO,1100,23.7143056939394,90.408314219697
-Bangladesh,Dhaka,Dhaka,Sutrapur,Gendaria TSO,1204,23.7018488520518,90.4238403298056
-Bangladesh,Dhaka,Dhaka,Sutrapur,Wari TSO,1203,23.7192009470588,90.4220403323529
-Bangladesh,Dhaka,Dhaka,Tejgaon,Tejgaon TSO,1215,23.7561937617284,90.389663454321
-Bangladesh,Dhaka,Dhaka,Tejgaon Industrial Area,Dhaka Politechnic,1208,23.764710598,90.403092558
-Bangladesh,Dhaka,Dhaka,Uttara,Uttara Model TwonTSO,1230,23.8560060112613,90.4086021941441
-Bangladesh,Rangpur,Dinajpur,Bangla Hili,Bangla Hili,5270,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Dinajpur,Birampur,Birampur,5266,25.3842095,88.98902775
-Bangladesh,Rangpur,Dinajpur,Birganj,Birganj,5220,25.8649643,88.6494119
-Bangladesh,Rangpur,Dinajpur,Chrirbandar,Chrirbandar,5240,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Dinajpur,Chrirbandar,Ranirbandar,5241,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Dinajpur,Dinajpur Sadar,Dinajpur Rajbari,5201,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Dinajpur,Dinajpur Sadar,Dinajpur Sadar,5200,25.6423549294118,88.6444119205882
-Bangladesh,Rangpur,Dinajpur,Khansama,Khansama,5230,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Dinajpur,Khansama,Pakarhat,5231,25.8693582,88.7805118
-Bangladesh,Rangpur,Dinajpur,Maharajganj,Maharajganj,5226,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Dinajpur,Nababganj,Daudpur,5281,25.3775663,89.1416594
-Bangladesh,Rangpur,Dinajpur,Nababganj,Gopalpur,5282,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Dinajpur,Nababganj,Nababganj,5280,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Dinajpur,Osmanpur,Ghoraghat,5291,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Dinajpur,Osmanpur,Osmanpur,5290,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Dinajpur,Parbatipur,Parbatipur,5250,25.6569071666667,88.8994581666667
-Bangladesh,Rangpur,Dinajpur,Phulbari,Phulbari,5260,25.45579366,88.91627686
-Bangladesh,Rangpur,Dinajpur,Setabganj,Setabganj,5216,25.6260711,88.6346228
-Bangladesh,Dhaka,Faridpur,Alfadanga,Alfadanga,7870,23.2962222,89.687849
-Bangladesh,Dhaka,Faridpur,Bhanga,Bhanga,7830,23.3890222,89.9853912833333
-Bangladesh,Dhaka,Faridpur,Boalmari,Boalmari,7860,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Faridpur,Boalmari,Rupatpat,7861,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Faridpur,Charbhadrasan,Charbadrashan,7810,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Faridpur,Faridpur Sadar,Ambikapur,7802,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Faridpur,Faridpur Sadar,Baitulaman Politecni,7803,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Faridpur,Faridpur Sadar,Faridpursadar,7800,23.6864864888889,89.8399327111111
-Bangladesh,Dhaka,Faridpur,Faridpur Sadar,Kanaipur,7801,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Faridpur,Madukhali,Kamarkali,7851,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Faridpur,Madukhali,Madukhali,7850,23.4996748,89.6232661
-Bangladesh,Dhaka,Faridpur,Nagarkanda,Nagarkanda,7840,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Faridpur,Nagarkanda,Talma,7841,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Faridpur,Sadarpur,Bishwa jaker Manjil,7822,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Faridpur,Sadarpur,Hat Krishapur,7821,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Faridpur,Sadarpur,Sadarpur,7820,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Faridpur,Shriangan,Shriangan,7804,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Feni,Chhagalnaia,Chhagalnaia,3910,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Feni,Chhagalnaia,Daraga Hat,3912,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Feni,Chhagalnaia,Maharajganj,3911,23.90501325,90.2151312883502
@@ -453,143 +346,6 @@ Bangladesh,Chittagong,Feni,Sonagazi,Ahmadpur,3932,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Feni,Sonagazi,Kazirhat,3933,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Feni,Sonagazi,Motiganj,3931,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Feni,Sonagazi,Sonagazi,3930,22.8460609,91.3918591
-Bangladesh,Rangpur,Gaibandha,Bonarpara,Bonarpara,5750,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Gaibandha,Bonarpara,saghata,5751,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,5700,25.36568756875,89.5226116125
-Bangladesh,Rangpur,Gaibandha,Gobindaganj,Gobindhaganj,5740,25.1357294,89.4000936
-Bangladesh,Rangpur,Gaibandha,Gobindaganj,Mahimaganj,5741,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Gaibandha,Palashbari,Palashbari,5730,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Gaibandha,Phulchhari,Bharatkhali,5761,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Gaibandha,Phulchhari,Phulchhari,5760,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Gaibandha,Saadullapur,Naldanga,5711,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Gaibandha,Saadullapur,Saadullapur,5710,25.4519628,89.38191535
-Bangladesh,Rangpur,Gaibandha,Sundarganj,Bamandanga,5721,25.5161647,89.4686408
-Bangladesh,Rangpur,Gaibandha,Sundarganj,Sundarganj,5720,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Gazipur,Gazipur Sadar,B.O.F,1703,24.033321,90.4157431
-Bangladesh,Dhaka,Gazipur,Gazipur Sadar,B.R.R,1701,23.99170592,90.40776136
-Bangladesh,Dhaka,Gazipur,Gazipur Sadar,Chandna,1702,24.0855436333333,90.38185675
-Bangladesh,Dhaka,Gazipur,Gazipur Sadar,Gazipur Sadar,1700,23.9976977,90.34383565
-Bangladesh,Dhaka,Gazipur,Gazipur Sadar,National University,1704,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Gazipur,Kaliakaar,Kaliakaar,1750,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Gazipur,Kaliakaar,Safipur,1751,24.021390625,90.2937516
-Bangladesh,Dhaka,Gazipur,Kaliganj,Kaliganj,1720,23.8731788,90.580945
-Bangladesh,Dhaka,Gazipur,Kaliganj,Pubail,1721,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Gazipur,Kaliganj,Santanpara,1722,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Gazipur,Kaliganj,Vaoal Jamalpur,1723,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Gazipur,Kapashia,kapashia,1730,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Gazipur,Monnunagar,Ershad Nagar,1712,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Gazipur,Monnunagar,Monnunagar,1710,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Gazipur,Monnunagar,Nishat Nagar,1711,23.9046096,90.3915299
-Bangladesh,Dhaka,Gazipur,Sreepur,Barmi,1743,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Gazipur,Sreepur,Bashamur,1747,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Gazipur,Sreepur,Boubi,1748,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Gazipur,Sreepur,Kawraid,1745,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Gazipur,Sreepur,Satkhamair,1744,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Gazipur,Sreepur,Sreepur,1740,24.2210736333333,90.4219707666667
-Bangladesh,Dhaka,Gazipur,Sripur,Rajendrapur,1741,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Gazipur,Sripur,Rajendrapur Canttome,1742,24.073367,90.4976168875
-Bangladesh,Dhaka,Gopalganj,Gopalganj Sadar,Barfa,8102,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Gopalganj,Gopalganj Sadar,Chandradighalia,8013,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Gopalganj,Gopalganj Sadar,Gopalganj Sadar,8100,22.97753975,89.81575935
-Bangladesh,Dhaka,Gopalganj,Gopalganj Sadar,Ulpur,8101,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Gopalganj,Kashiani,Jonapur,8133,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Gopalganj,Kashiani,Kashiani,8130,23.2126696,89.7071602375
-Bangladesh,Dhaka,Gopalganj,Kashiani,Ramdia College,8131,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Gopalganj,Kashiani,Ratoil,8132,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Gopalganj,Kotalipara,Kotalipara,8110,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Gopalganj,Maksudpur,Batkiamari,8141,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Gopalganj,Maksudpur,Khandarpara,8142,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Gopalganj,Maksudpur,Maksudpur,8140,23.2838904444444,89.8349322555556
-Bangladesh,Dhaka,Gopalganj,Tungipara,Patgati,8121,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Gopalganj,Tungipara,Tungipara,8120,23.90501325,90.2151312883502
-Bangladesh,Sylhet,Hobiganj,Azmireeganj,Azmireeganj,3360,23.90501325,90.2151312883502
-Bangladesh,Sylhet,Hobiganj,Bahubal,Bahubal,3310,24.428283525,91.764363025
-Bangladesh,Sylhet,Hobiganj,Baniachang,Baniachang,3350,23.90501325,90.2151312883502
-Bangladesh,Sylhet,Hobiganj,Baniachang,Jatrapasha,3351,23.90501325,90.2151312883502
-Bangladesh,Sylhet,Hobiganj,Baniachang,Kadirganj,3352,23.90501325,90.2151312883502
-Bangladesh,Sylhet,Hobiganj,Chunarughat,Chandpurbagan,3321,23.90501325,90.2151312883502
-Bangladesh,Sylhet,Hobiganj,Chunarughat,Chunarughat,3320,23.90501325,90.2151312883502
-Bangladesh,Sylhet,Hobiganj,Chunarughat,Narapati,3322,24.23619848,91.52067026
-Bangladesh,Sylhet,Hobiganj,Hobiganj Sadar,Gopaya,3302,23.90501325,90.2151312883502
-Bangladesh,Sylhet,Hobiganj,Hobiganj Sadar,Hobiganj Sadar,3300,24.3714278111111,91.4174335777778
-Bangladesh,Sylhet,Hobiganj,Kalauk,Kalauk,3340,23.90501325,90.2151312883502
-Bangladesh,Sylhet,Hobiganj,Kalauk,Lakhai,3341,23.90501325,90.2151312883502
-Bangladesh,Sylhet,Hobiganj,Madhabpur,Itakhola,3331,23.90501325,90.2151312883502
-Bangladesh,Sylhet,Hobiganj,Madhabpur,Madhabpur,3330,24.0974994666667,91.2913647
-Bangladesh,Sylhet,Hobiganj,Madhabpur,Saihamnagar,3333,24.1716779,91.3535235
-Bangladesh,Sylhet,Hobiganj,Madhabpur,Shahajibazar,3332,24.238935225,91.4018262
-Bangladesh,Sylhet,Hobiganj,Nabiganj,Digalbak,3373,23.90501325,90.2151312883502
-Bangladesh,Sylhet,Hobiganj,Nabiganj,Golduba,3372,23.90501325,90.2151312883502
-Bangladesh,Sylhet,Hobiganj,Nabiganj,Goplarbazar,3371,23.90501325,90.2151312883502
-Bangladesh,Sylhet,Hobiganj,Nabiganj,Nabiganj,3370,24.57803465,91.5298094666667
-Bangladesh,Mymensingh,Jamalpur,Dewangonj,Dewangonj,2030,25.3526834,89.7904317
-Bangladesh,Mymensingh,Jamalpur,Dewangonj,Dewangonj S. Mills,2031,23.90501325,90.2151312883502
-Bangladesh,Mymensingh,Jamalpur,Islampur,Durmoot,2021,23.90501325,90.2151312883502
-Bangladesh,Mymensingh,Jamalpur,Islampur,Gilabari,2022,23.90501325,90.2151312883502
-Bangladesh,Mymensingh,Jamalpur,Islampur,Islampur,2020,23.90501325,90.2151312883502
-Bangladesh,Mymensingh,Jamalpur,Jamalpur,Jamalpur,2000,24.9244905375,89.94149309
-Bangladesh,Mymensingh,Jamalpur,Jamalpur,Nandina,2001,24.8716033,90.0344214
-Bangladesh,Mymensingh,Jamalpur,Jamalpur,Narundi,2002,23.90501325,90.2151312883502
-Bangladesh,Mymensingh,Jamalpur,Malandah,Jamalpur,2011,23.90501325,90.2151312883502
-Bangladesh,Mymensingh,Jamalpur,Malandah,Mahmoodpur,2013,23.90501325,90.2151312883502
-Bangladesh,Mymensingh,Jamalpur,Malandah,Malancha,2012,24.8903963777778,89.8709788555556
-Bangladesh,Mymensingh,Jamalpur,Malandah,Malandah,2010,23.90501325,90.2151312883502
-Bangladesh,Mymensingh,Jamalpur,Mathargonj,Balijhuri,2041,23.90501325,90.2151312883502
-Bangladesh,Mymensingh,Jamalpur,Mathargonj,Mathargonj,2040,22.6882008666667,91.7908999166667
-Bangladesh,Mymensingh,Jamalpur,Shorishabari,Bausee,2052,23.90501325,90.2151312883502
-Bangladesh,Mymensingh,Jamalpur,Shorishabari,Gunerbari,2051,23.90501325,90.2151312883502
-Bangladesh,Mymensingh,Jamalpur,Shorishabari,Jagannath Ghat,2053,23.90501325,90.2151312883502
-Bangladesh,Mymensingh,Jamalpur,Shorishabari,Jamuna Sar Karkhana,2055,23.90501325,90.2151312883502
-Bangladesh,Mymensingh,Jamalpur,Shorishabari,Pingna,2054,23.90501325,90.2151312883502
-Bangladesh,Mymensingh,Jamalpur,Shorishabari,Shorishabari,2050,24.6822285666667,89.8274655
-Bangladesh,Khulna,Jessore,Bagharpara,Bagharpara,7470,23.90501325,90.2151312883502
-Bangladesh,Khulna,Jessore,Bagharpara,Gouranagar,7471,23.90501325,90.2151312883502
-Bangladesh,Khulna,Jessore,Chaugachha,Chougachha,7410,23.2614939,89.0238421
-Bangladesh,Khulna,Jessore,Jessore Sadar,Basundia,7406,23.90501325,90.2151312883502
-Bangladesh,Khulna,Jessore,Jessore Sadar,Chanchra,7402,23.15014955,89.19961055
-Bangladesh,Khulna,Jessore,Jessore Sadar,Churamankathi,7407,23.90501325,90.2151312883502
-Bangladesh,Khulna,Jessore,Jessore Sadar,Jessore Airbach,7404,23.90501325,90.2151312883502
-Bangladesh,Khulna,Jessore,Jessore Sadar,Jessore canttonment,7403,23.90501325,90.2151312883502
-Bangladesh,Khulna,Jessore,Jessore Sadar,Jessore Sadar,7400,23.1616030253208,89.2096841141278
-Bangladesh,Khulna,Jessore,Jessore Sadar,Jessore Upa-Shahar,7401,23.90501325,90.2151312883502
-Bangladesh,Khulna,Jessore,Jessore Sadar,Rupdia,7405,23.90501325,90.2151312883502
-Bangladesh,Khulna,Jessore,Jhikargachha,Jhikargachha,7420,23.90501325,90.2151312883502
-Bangladesh,Khulna,Jessore,Keshabpur,Keshobpur,7450,22.9068677,89.2172702
-Bangladesh,Khulna,Jessore,Monirampur,Monirampur,7440,23.90501325,90.2151312883502
-Bangladesh,Khulna,Jessore,Noapara,Bhugilhat,7462,23.90501325,90.2151312883502
-Bangladesh,Khulna,Jessore,Noapara,Noapara,7460,23.90501325,90.2151312883502
-Bangladesh,Khulna,Jessore,Noapara,Rajghat,7461,23.90501325,90.2151312883502
-Bangladesh,Khulna,Jessore,Sarsa,Bag Achra,7433,23.90501325,90.2151312883502
-Bangladesh,Khulna,Jessore,Sarsa,Benapole,7431,23.03777355,88.892015925
-Bangladesh,Khulna,Jessore,Sarsa,Jadabpur,7432,23.0576687,88.991862
-Bangladesh,Khulna,Jessore,Sarsa,Sarsa,7430,23.90501325,90.2151312883502
-Bangladesh,Barishal,Jhalokathi,Jhalokathi Sadar,Baukathi,8402,23.90501325,90.2151312883502
-Bangladesh,Barishal,Jhalokathi,Jhalokathi Sadar,Gabha,8403,23.90501325,90.2151312883502
-Bangladesh,Barishal,Jhalokathi,Jhalokathi Sadar,Jhalokathi Sadar,8400,22.6425635,90.20044195625
-Bangladesh,Barishal,Jhalokathi,Jhalokathi Sadar,Nabagram,8401,23.90501325,90.2151312883502
-Bangladesh,Barishal,Jhalokathi,Jhalokathi Sadar,Shekherhat,8404,22.6205628,90.10622895
-Bangladesh,Barishal,Jhalokathi,Kathalia,Amua,8431,23.90501325,90.2151312883502
-Bangladesh,Barishal,Jhalokathi,Kathalia,Kathalia,8430,23.90501325,90.2151312883502
-Bangladesh,Barishal,Jhalokathi,Kathalia,Niamatee,8432,23.90501325,90.2151312883502
-Bangladesh,Barishal,Jhalokathi,Kathalia,Shoulajalia,8433,23.90501325,90.2151312883502
-Bangladesh,Barishal,Jhalokathi,Nalchhiti,Beerkathi,8421,23.90501325,90.2151312883502
-Bangladesh,Barishal,Jhalokathi,Nalchhiti,Nalchhiti,8420,23.90501325,90.2151312883502
-Bangladesh,Barishal,Jhalokathi,Rajapur,Rajapur,8410,23.90501325,90.2151312883502
-Bangladesh,Khulna,Jinaidaha,Harinakundu,Harinakundu,7310,23.90501325,90.2151312883502
-Bangladesh,Khulna,Jinaidaha,Jinaidaha Sadar,Jinaidaha Cadet College,7301,23.90501325,90.2151312883502
-Bangladesh,Khulna,Jinaidaha,Jinaidaha Sadar,Jinaidaha Sadar,7300,23.54140466,89.1679313
-Bangladesh,Khulna,Jinaidaha,Maheshpur,Maheshpur,7340,23.3897224,88.9471049
-Bangladesh,Khulna,Jinaidaha,Naldanga,Hatbar Bazar,7351,23.90501325,90.2151312883502
-Bangladesh,Khulna,Jinaidaha,Naldanga,Naldanga,7350,23.90501325,90.2151312883502
-Bangladesh,Khulna,Jinaidaha,Shailakupa,Kumiradaha,7321,23.90501325,90.2151312883502
-Bangladesh,Khulna,Jinaidaha,Shailakupa,Shailakupa,7320,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Joypurhat,Akkelpur,Akklepur,5940,24.9671123,89.0239954
-Bangladesh,Rajshahi,Joypurhat,Akkelpur,jamalganj,5941,25.03459895,89.01867195
-Bangladesh,Rajshahi,Joypurhat,Akkelpur,Tilakpur,5942,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Joypurhat,Joypurhat Sadar,Joypurhat Sadar,5900,25.1020678666667,89.0300266333333
-Bangladesh,Rajshahi,Joypurhat,kalai,kalai,5930,25.1320678,89.1936939
-Bangladesh,Rajshahi,Joypurhat,Khetlal,Khetlal,5920,25.0217179,89.1537995
-Bangladesh,Rajshahi,Joypurhat,panchbibi,Panchbibi,5910,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Khagrachari,Diginala,Diginala,4420,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Khagrachari,Khagrachari Sadar,Khagrachari Sadar,4400,23.118416,91.9926467
 Bangladesh,Chittagong,Khagrachari,Laxmichhari,Laxmichhari,4470,23.90501325,90.2151312883502
@@ -598,98 +354,6 @@ Bangladesh,Chittagong,Khagrachari,Manikchhari,Manikchhari,4460,22.8515231,91.845
 Bangladesh,Chittagong,Khagrachari,Matiranga,Matiranga,4450,23.2466549,91.8483794
 Bangladesh,Chittagong,Khagrachari,Panchhari,Panchhari,4410,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Khagrachari,Ramghar Head Office,Ramghar Head Office,4440,23.90501325,90.2151312883502
-Bangladesh,Khulna,Khulna,,Indranarayanpur,8350,23.90501325,90.2151312883502
-Bangladesh,Khulna,Khulna,,Kamarhat,8720,23.90501325,90.2151312883502
-Bangladesh,Khulna,Khulna,Alaipur,Alaipur,9240,23.90501325,90.2151312883502
-Bangladesh,Khulna,Khulna,Alaipur,Belphulia,9242,23.90501325,90.2151312883502
-Bangladesh,Khulna,Khulna,Alaipur,Rupsha,9241,23.90501325,90.2151312883502
-Bangladesh,Khulna,Khulna,Batiaghat,Batiaghat,9260,22.78315826,89.54411007
-Bangladesh,Khulna,Khulna,Batiaghat,Surkalee,9261,23.90501325,90.2151312883502
-Bangladesh,Khulna,Khulna,Chalna Bazar,Bajua,9272,23.90501325,90.2151312883502
-Bangladesh,Khulna,Khulna,Chalna Bazar,Chalna Bazar,9270,22.539342,89.4449463
-Bangladesh,Khulna,Khulna,Chalna Bazar,Dakup,9271,23.90501325,90.2151312883502
-Bangladesh,Khulna,Khulna,Chalna Bazar,Nalian,9273,23.90501325,90.2151312883502
-Bangladesh,Khulna,Khulna,Digalia,Chandni Mahal,9221,23.90501325,90.2151312883502
-Bangladesh,Khulna,Khulna,Digalia,Digalia,9220,23.90501325,90.2151312883502
-Bangladesh,Khulna,Khulna,Digalia,Gazirhat,9224,23.90501325,90.2151312883502
-Bangladesh,Khulna,Khulna,Digalia,Ghoshghati,9223,23.90501325,90.2151312883502
-Bangladesh,Khulna,Khulna,Digalia,Senhati,9222,22.8761353,89.5418418
-Bangladesh,Khulna,Khulna,Khulna Sadar,Atra Shilpa Area,9207,23.90501325,90.2151312883502
-Bangladesh,Khulna,Khulna,Khulna Sadar,BIT Khulna,9203,22.89759084,89.5040745733333
-Bangladesh,Khulna,Khulna,Khulna Sadar,Doulatpur,9202,22.8706953333333,89.5233565333333
-Bangladesh,Khulna,Khulna,Khulna Sadar,Jahanabad Canttonmen,9205,23.90501325,90.2151312883502
-Bangladesh,Khulna,Khulna,Khulna Sadar,Khula Sadar,9100,22.7945933045642,89.5704445191764
-Bangladesh,Khulna,Khulna,Khulna Sadar,Khulna G.P.O,9000,22.842017405,89.5324397225
-Bangladesh,Khulna,Khulna,Khulna Sadar,Khulna Shipyard,9201,22.7804088,89.5532714
-Bangladesh,Khulna,Khulna,Khulna Sadar,Khulna University,9208,22.8034594538461,89.5340913230769
-Bangladesh,Khulna,Khulna,Khulna Sadar,Siramani,9204,23.90501325,90.2151312883502
-Bangladesh,Khulna,Khulna,Khulna Sadar,Sonali Jute Mills,9206,22.9032432,89.5119424333333
-Bangladesh,Khulna,Khulna,Madinabad,Amadee,9291,23.90501325,90.2151312883502
-Bangladesh,Khulna,Khulna,Madinabad,Madinabad,9290,23.90501325,90.2151312883502
-Bangladesh,Khulna,Khulna,Paikgachha,Chandkhali,9284,23.90501325,90.2151312883502
-Bangladesh,Khulna,Khulna,Paikgachha,Garaikhali,9285,22.6088180285714,89.4042658785714
-Bangladesh,Khulna,Khulna,Paikgachha,Godaipur,9281,23.90501325,90.2151312883502
-Bangladesh,Khulna,Khulna,Paikgachha,Kapilmoni,9282,23.90501325,90.2151312883502
-Bangladesh,Khulna,Khulna,Paikgachha,Katipara,9283,23.90501325,90.2151312883502
-Bangladesh,Khulna,Khulna,Paikgachha,Paikgachha,9280,22.5990709428571,89.3341530285714
-Bangladesh,Khulna,Khulna,Phultala,Phultala,9210,22.9736153,89.475374
-Bangladesh,Khulna,Khulna,Sajiara,Chuknagar,9252,23.90501325,90.2151312883502
-Bangladesh,Khulna,Khulna,Sajiara,Ghonabanda,9251,23.90501325,90.2151312883502
-Bangladesh,Khulna,Khulna,Sajiara,Sajiara,9250,23.90501325,90.2151312883502
-Bangladesh,Khulna,Khulna,Sajiara,Shahapur,9253,23.90501325,90.2151312883502
-Bangladesh,Khulna,Khulna,Terakhada,Pak Barasat,9231,23.90501325,90.2151312883502
-Bangladesh,Khulna,Khulna,Terakhada,Terakhada,9230,22.9536019170213,89.6579452829787
-Bangladesh,Dhaka,Kishoreganj,Bajitpur,Bajitpur,2336,24.2146664,90.9523478
-Bangladesh,Dhaka,Kishoreganj,Bajitpur,Laksmipur,2338,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Kishoreganj,Bajitpur,Sararchar,2337,24.2488631,90.8992231
-Bangladesh,Dhaka,Kishoreganj,Bhairob,Bhairab,2350,24.0499217233333,90.9841930133333
-Bangladesh,Dhaka,Kishoreganj,Hossenpur,Hossenpur,2320,24.4541863782609,90.6396609478261
-Bangladesh,Dhaka,Kishoreganj,Itna,Itna,2390,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Kishoreganj,Karimganj,Karimganj,2310,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Kishoreganj,Katiadi,Gochhihata,2331,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Kishoreganj,Katiadi,Katiadi,2330,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Kishoreganj,Kishoreganj Sadar,Kishoreganj Sadar,2300,24.4467269526316,90.7801412263158
-Bangladesh,Dhaka,Kishoreganj,Kishoreganj Sadar,Kishoreganj S.Mills,2301,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Kishoreganj,Kishoreganj Sadar,Maizhati,2302,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Kishoreganj,Kishoreganj Sadar,Nilganj,2303,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Kishoreganj,Kuliarchar,Chhoysuti,2341,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Kishoreganj,Kuliarchar,Kuliarchar,2340,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Kishoreganj,Mithamoin,Abdullahpur,2371,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Kishoreganj,Mithamoin,MIthamoin,2370,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Kishoreganj,Nikli,Nikli,2360,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Kishoreganj,Ostagram,Ostagram,2380,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Kishoreganj,Pakundia,Pakundia,2326,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Kishoreganj,Tarial,Tarial,2316,24.54923,90.8912914
-Bangladesh,Rangpur,Kurigram,Bhurungamari,Bhurungamari,5670,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Kurigram,Chilmari,Chilmari,5630,25.5849678617647,89.6601961823529
-Bangladesh,Rangpur,Kurigram,Chilmari,Jorgachh,5631,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,5600,25.7027454421053,89.5645688421053
-Bangladesh,Rangpur,Kurigram,Kurigram Sadar,Pandul,5601,25.7106819,89.5852758
-Bangladesh,Rangpur,Kurigram,Kurigram Sadar,Phulbari,5680,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Kurigram,Nageshwar,Nageshwar,5660,25.9647602,89.6895087
-Bangladesh,Rangpur,Kurigram,Rajarhat,Nazimkhan,5611,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Kurigram,Rajarhat,Rajarhat,5610,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Kurigram,Rajibpur,Rajibpur,5650,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Kurigram,Roumari,Roumari,5640,25.6512662,89.849461
-Bangladesh,Rangpur,Kurigram,Ulipur,Bazarhat,5621,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Kurigram,Ulipur,Ulipur,5620,23.90501325,90.2151312883502
-Bangladesh,Khulna,Kustia,Bheramara,Allardarga,7042,22.8338085,89.5794517
-Bangladesh,Khulna,Kustia,Bheramara,Bheramara,7040,22.9696585,89.5653051
-Bangladesh,Khulna,Kustia,Bheramara,Ganges Bheramara,7041,22.8047054,89.590239
-Bangladesh,Khulna,Kustia,Janipur,Janipur,7020,23.7963015,89.3075026
-Bangladesh,Khulna,Kustia,Janipur,Khoksa,7021,23.90501325,90.2151312883502
-Bangladesh,Khulna,Kustia,Kumarkhali,Kumarkhali,7010,23.8530118,89.1942662
-Bangladesh,Khulna,Kustia,Kumarkhali,Panti,7011,23.90501325,90.2151312883502
-Bangladesh,Khulna,Kustia,Kustia Sadar,Islami University,7003,23.90501325,90.2151312883502
-Bangladesh,Khulna,Kustia,Kustia Sadar,Jagati,7002,23.73972715,89.01704495
-Bangladesh,Khulna,Kustia,Kustia Sadar,Kushtia Mohini,7001,23.8894569,89.1499227
-Bangladesh,Khulna,Kustia,Kustia Sadar,Kustia Sadar,7000,23.1853698,89.3992840666667
-Bangladesh,Khulna,Kustia,Mirpur,Amla Sadarpur,7032,23.90501325,90.2151312883502
-Bangladesh,Khulna,Kustia,Mirpur,Mirpur,7030,23.90501325,90.2151312883502
-Bangladesh,Khulna,Kustia,Mirpur,Poradaha,7031,23.90501325,90.2151312883502
-Bangladesh,Khulna,Kustia,Rafayetpur,Khasmathurapur,7052,24.0322993307692,88.7922358230769
-Bangladesh,Khulna,Kustia,Rafayetpur,Rafayetpur,7050,23.90501325,90.2151312883502
-Bangladesh,Khulna,Kustia,Rafayetpur,Taragunia,7051,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Lakshmipur,Char Alexgander,Char Alexgander,3730,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Lakshmipur,Char Alexgander,Hajirghat,3731,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Lakshmipur,Char Alexgander,Ramgatirhat,3732,23.90501325,90.2151312883502
@@ -714,259 +378,6 @@ Bangladesh,Chittagong,Lakshmipur,Raypur,Haydarganj,3713,23.90501325,90.215131288
 Bangladesh,Chittagong,Lakshmipur,Raypur,Nagerdighirpar,3712,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Lakshmipur,Raypur,Rakhallia,3711,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Lakshmipur,Raypur,Raypur,3710,23.0561911,90.7611689
-Bangladesh,Rangpur,Lalmonirhat,Aditmari,Aditmari,5510,25.9346437,89.3788585
-Bangladesh,Rangpur,Lalmonirhat,Hatibandha,Hatibandha,5530,26.17247608,89.13580766
-Bangladesh,Rangpur,Lalmonirhat,Lalmonirhat Sadar,Kulaghat SO,5502,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Lalmonirhat,Lalmonirhat Sadar,Lalmonirhat Sadar,5500,25.9126091925926,89.4361532888889
-Bangladesh,Rangpur,Lalmonirhat,Lalmonirhat Sadar,Moghalhat,5501,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Lalmonirhat,Patgram,Baura,5541,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Lalmonirhat,Patgram,Burimari,5542,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Lalmonirhat,Patgram,Patgram,5540,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Lalmonirhat,Tushbhandar,Tushbhandar,5520,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Madaripur,Barhamganj,Bahadurpur,7932,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Madaripur,Barhamganj,Barhamganj,7930,23.36833116,90.16561124
-Bangladesh,Dhaka,Madaripur,Barhamganj,Nilaksmibandar,7931,23.3688409444444,90.1031753777778
-Bangladesh,Dhaka,Madaripur,Barhamganj,Umedpur,7933,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Madaripur,kalkini,Kalkini,7920,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Madaripur,kalkini,Sahabrampur,7921,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Madaripur,Madaripur Sadar,Charmugria,7901,23.1975898,90.1243026
-Bangladesh,Dhaka,Madaripur,Madaripur Sadar,Habiganj,7903,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Madaripur,Madaripur Sadar,Kulpaddi,7902,23.1767540333333,90.1574161
-Bangladesh,Dhaka,Madaripur,Madaripur Sadar,Madaripur Sadar,7900,23.1691321222222,90.2021554888889
-Bangladesh,Dhaka,Madaripur,Madaripur Sadar,Mustafapur,7904,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Madaripur,Rajoir,Khalia,7911,23.23953625,89.958359625
-Bangladesh,Dhaka,Madaripur,Rajoir,Rajoir,7910,23.90501325,90.2151312883502
-Bangladesh,Khulna,Magura,Arpara,Arpara,7620,23.90501325,90.2151312883502
-Bangladesh,Khulna,Magura,Magura Sadar,Magura Sadar,7600,23.4917339,89.4150195
-Bangladesh,Khulna,Magura,Mohammadpur,Binodpur,7631,23.90501325,90.2151312883502
-Bangladesh,Khulna,Magura,Mohammadpur,Mohammadpur,7630,23.90501325,90.2151312883502
-Bangladesh,Khulna,Magura,Mohammadpur,Nahata,7632,23.90501325,90.2151312883502
-Bangladesh,Khulna,Magura,Shripur,Langalbadh,7611,23.90501325,90.2151312883502
-Bangladesh,Khulna,Magura,Shripur,Nachol,7612,23.90501325,90.2151312883502
-Bangladesh,Khulna,Magura,Shripur,Shripur,7610,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Manikganj,Gheor,Gheor,1840,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Manikganj,Lechhraganj,Jhitka,1831,23.7689746666667,89.9037184
-Bangladesh,Dhaka,Manikganj,Lechhraganj,Lechhraganj,1830,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Manikganj,Manikganj Sadar,Barangail,1804,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Manikganj,Manikganj Sadar,Gorpara,1802,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Manikganj,Manikganj Sadar,Mahadebpur,1803,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Manikganj,Manikganj Sadar,Manikganj Bazar,1801,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Manikganj,Manikganj Sadar,Manikganj Sadar,1800,23.8523795787234,89.9962117255319
-Bangladesh,Dhaka,Manikganj,Saturia,Baliati,1811,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Manikganj,Saturia,Saturia,1810,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Manikganj,Shibloya,Aricha,1851,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Manikganj,Shibloya,Shibaloy,1850,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Manikganj,Shibloya,Tewta,1852,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Manikganj,Shibloya,Uthli,1853,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Manikganj,Singari,Baira,1821,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Manikganj,Singari,joymantop,1822,23.7956027,90.1723481
-Bangladesh,Dhaka,Manikganj,Singari,Singair,1820,23.8163692,90.1152457
-Bangladesh,Khulna,Meherpur,Gangni,Gangni,7110,23.8950211,88.8065095
-Bangladesh,Khulna,Meherpur,Meherpur Sadar,Amjhupi,7152,23.90501325,90.2151312883502
-Bangladesh,Khulna,Meherpur,Meherpur Sadar,Amjhupi,7101,23.90501325,90.2151312883502
-Bangladesh,Khulna,Meherpur,Meherpur Sadar,Meherpur Sadar,7100,23.780688937931,88.6396622
-Bangladesh,Khulna,Meherpur,Meherpur Sadar,Mujib Nagar Complex,7102,23.90501325,90.2151312883502
-Bangladesh,Sylhet,Moulvibazar,Baralekha,Baralekha,3250,24.7091354,92.1898289833333
-Bangladesh,Sylhet,Moulvibazar,Baralekha,Dhakkhinbag,3252,21.1845625,92.1557715
-Bangladesh,Sylhet,Moulvibazar,Baralekha,Juri,3251,23.90501325,90.2151312883502
-Bangladesh,Sylhet,Moulvibazar,Baralekha,Purbashahabajpur,3253,23.90501325,90.2151312883502
-Bangladesh,Sylhet,Moulvibazar,Kamalganj,Kamalganj,3220,24.3282719,91.8832927666667
-Bangladesh,Sylhet,Moulvibazar,Kamalganj,Keramatnaga,3221,23.90501325,90.2151312883502
-Bangladesh,Sylhet,Moulvibazar,Kamalganj,Munshibazar,3224,23.90501325,90.2151312883502
-Bangladesh,Sylhet,Moulvibazar,Kamalganj,Patrakhola,3222,23.90501325,90.2151312883502
-Bangladesh,Sylhet,Moulvibazar,Kamalganj,Shamsher Nagar,3223,24.3444182833333,91.9773905888889
-Bangladesh,Sylhet,Moulvibazar,Kulaura,Baramchal,3237,23.90501325,90.2151312883502
-Bangladesh,Sylhet,Moulvibazar,Kulaura,Kajaldhara,3234,23.90501325,90.2151312883502
-Bangladesh,Sylhet,Moulvibazar,Kulaura,Karimpur,3235,23.90501325,90.2151312883502
-Bangladesh,Sylhet,Moulvibazar,Kulaura,Kulaura,3230,23.90501325,90.2151312883502
-Bangladesh,Sylhet,Moulvibazar,Kulaura,Langla,3232,23.90501325,90.2151312883502
-Bangladesh,Sylhet,Moulvibazar,Kulaura,Prithimpasha,3233,23.90501325,90.2151312883502
-Bangladesh,Sylhet,Moulvibazar,Kulaura,Tillagaon,3231,24.43995145,91.95459135
-Bangladesh,Sylhet,Moulvibazar,Moulvibazar Sadar,Afrozganj,3203,24.6336565222222,91.6348217777778
-Bangladesh,Sylhet,Moulvibazar,Moulvibazar Sadar,Barakapan,3201,23.90501325,90.2151312883502
-Bangladesh,Sylhet,Moulvibazar,Moulvibazar Sadar,Monumukh,3202,23.90501325,90.2151312883502
-Bangladesh,Sylhet,Moulvibazar,Moulvibazar Sadar,Moulvibazar Sadar,3200,24.4851732176471,91.7630971294118
-Bangladesh,Sylhet,Moulvibazar,Rajnagar,Rajnagar,3240,23.90501325,90.2151312883502
-Bangladesh,Sylhet,Moulvibazar,Srimangal,Kalighat,3212,24.2674884333333,91.7315268
-Bangladesh,Sylhet,Moulvibazar,Srimangal,Khejurichhara,3213,24.22406705,91.69258605
-Bangladesh,Sylhet,Moulvibazar,Srimangal,Narain Chora,3211,23.90501325,90.2151312883502
-Bangladesh,Sylhet,Moulvibazar,Srimangal,Satgaon,3214,24.4132198724138,91.6284471517241
-Bangladesh,Sylhet,Moulvibazar,Srimangal,Srimangal,3210,24.310623237931,91.7355920896552
-Bangladesh,Dhaka,Munshiganj,Gajaria,Gajaria,1510,23.5506613888889,90.6504264555556
-Bangladesh,Dhaka,Munshiganj,Gajaria,Hossendi,1511,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Munshiganj,Gajaria,Rasulpur,1512,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Munshiganj,Lohajong,Gouragonj,1534,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Munshiganj,Lohajong,Gouragonj,1334,23.921202,90.239634
-Bangladesh,Dhaka,Munshiganj,Lohajong,Haldia SO,1532,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Munshiganj,Lohajong,Haridia,1333,22.7906046,89.26592125
-Bangladesh,Dhaka,Munshiganj,Lohajong,Haridia DESO,1533,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Munshiganj,Lohajong,Korhati,1531,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Munshiganj,Lohajong,Lohajang,1530,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Munshiganj,Lohajong,Madini Mandal,1335,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Munshiganj,Lohajong,Medini Mandal EDSO,1535,23.4940594,90.2673128
-Bangladesh,Dhaka,Munshiganj,Munshiganj Sadar,Kathakhali,1503,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Munshiganj,Munshiganj Sadar,Mirkadim,1502,23.55972475,90.4859777833334
-Bangladesh,Dhaka,Munshiganj,Munshiganj Sadar,Munshiganj Sadar,1500,23.4652557714286,90.5262279
-Bangladesh,Dhaka,Munshiganj,Munshiganj Sadar,Rikabibazar,1501,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Munshiganj,Sirajdikhan,Ichapur,1542,23.5501650714286,90.3933589857143
-Bangladesh,Dhaka,Munshiganj,Sirajdikhan,Kola,1541,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Munshiganj,Sirajdikhan,Malkha Nagar,1543,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Munshiganj,Sirajdikhan,Shekher Nagar,1544,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Munshiganj,Sirajdikhan,Sirajdikhan,1540,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Munshiganj,Srinagar,Baghra,1557,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Munshiganj,Srinagar,Barikhal,1551,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Munshiganj,Srinagar,Bhaggyakul,1558,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Munshiganj,Srinagar,Hashara,1553,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Munshiganj,Srinagar,Kolapara,1554,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Munshiganj,Srinagar,Kumarbhog,1555,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Munshiganj,Srinagar,Mazpara,1552,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Munshiganj,Srinagar,Srinagar,1550,23.51990405,90.2934461
-Bangladesh,Dhaka,Munshiganj,Srinagar,Vaggyakul SO,1556,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Munshiganj,Tangibari,Bajrajugini,1523,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Munshiganj,Tangibari,Baligao,1522,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Munshiganj,Tangibari,Betkahat,1521,23.5327859636364,90.4569516545454
-Bangladesh,Dhaka,Munshiganj,Tangibari,Dighirpar,1525,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Munshiganj,Tangibari,Hasail,1524,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Munshiganj,Tangibari,Pura,1527,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Munshiganj,Tangibari,Pura EDSO,1526,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Munshiganj,Tangibari,Tangibari,1520,23.5125577465116,90.4716343325581
-Bangladesh,Mymensingh,Mymensingh,Bhaluka,Bhaluka,2240,24.3718234857143,90.3887097
-Bangladesh,Mymensingh,Mymensingh,Fulbaria,Fulbaria,2216,24.6875520416667,90.2885684916667
-Bangladesh,Mymensingh,Mymensingh,Gaforgaon,Duttarbazar,2234,23.90501325,90.2151312883502
-Bangladesh,Mymensingh,Mymensingh,Gaforgaon,Gaforgaon,2230,24.4490563333333,90.5571045666667
-Bangladesh,Mymensingh,Mymensingh,Gaforgaon,Kandipara,2233,23.90501325,90.2151312883502
-Bangladesh,Mymensingh,Mymensingh,Gaforgaon,Shibganj,2231,23.90501325,90.2151312883502
-Bangladesh,Mymensingh,Mymensingh,Gaforgaon,Usti,2232,23.90501325,90.2151312883502
-Bangladesh,Mymensingh,Mymensingh,Gouripur,Gouripur,2270,24.7354739,90.50951295
-Bangladesh,Mymensingh,Mymensingh,Gouripur,Ramgopalpur,2271,23.90501325,90.2151312883502
-Bangladesh,Mymensingh,Mymensingh,Haluaghat,Dhara,2261,23.90501325,90.2151312883502
-Bangladesh,Mymensingh,Mymensingh,Haluaghat,Haluaghat,2260,25.1479862,90.4566429
-Bangladesh,Mymensingh,Mymensingh,Haluaghat,Munshirhat,2262,23.90501325,90.2151312883502
-Bangladesh,Mymensingh,Mymensingh,Isshwargonj,Atharabari,2282,23.90501325,90.2151312883502
-Bangladesh,Mymensingh,Mymensingh,Isshwargonj,Isshwargonj,2280,24.6461653045454,90.5999035681818
-Bangladesh,Mymensingh,Mymensingh,Isshwargonj,Sohagi,2281,23.90501325,90.2151312883502
-Bangladesh,Mymensingh,Mymensingh,Muktagachha,Muktagachha,2210,23.90501325,90.2151312883502
-Bangladesh,Mymensingh,Mymensingh,Mymensingh Sadar,Agriculture Universi,2202,24.7246130454545,90.4343445909091
-Bangladesh,Mymensingh,Mymensingh,Mymensingh Sadar,Biddyaganj,2204,23.90501325,90.2151312883502
-Bangladesh,Mymensingh,Mymensingh,Mymensingh Sadar,Kawatkhali,2201,23.90501325,90.2151312883502
-Bangladesh,Mymensingh,Mymensingh,Mymensingh Sadar,Mymensingh Sadar,2200,24.7555092416667,90.3963557166667
-Bangladesh,Mymensingh,Mymensingh,Mymensingh Sadar,Pearpur,2205,23.90501325,90.2151312883502
-Bangladesh,Mymensingh,Mymensingh,Mymensingh Sadar,Shombhuganj,2203,23.90501325,90.2151312883502
-Bangladesh,Mymensingh,Mymensingh,Nandail,Gangail,2291,23.90501325,90.2151312883502
-Bangladesh,Mymensingh,Mymensingh,Nandail,Nandail,2290,23.90501325,90.2151312883502
-Bangladesh,Mymensingh,Mymensingh,Phulpur,Beltia,2251,23.90501325,90.2151312883502
-Bangladesh,Mymensingh,Mymensingh,Phulpur,Phulpur,2250,24.9536235,90.35884325
-Bangladesh,Mymensingh,Mymensingh,Phulpur,Tarakanda,2252,23.90501325,90.2151312883502
-Bangladesh,Mymensingh,Mymensingh,Trishal,Ahmadbad,2221,24.6083168,90.45743025
-Bangladesh,Mymensingh,Mymensingh,Trishal,Dhala,2223,24.5153396333333,90.5009885333334
-Bangladesh,Mymensingh,Mymensingh,Trishal,Ram Amritaganj,2222,23.90501325,90.2151312883502
-Bangladesh,Mymensingh,Mymensingh,Trishal,Trishal,2220,24.6330724,90.4625035
-Bangladesh,Rajshahi,Naogaon,Ahsanganj,Ahsanganj,6596,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Naogaon,Ahsanganj,Bandai,6597,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Naogaon,Badalgachhi,Badalgachhi,6570,25.0004275,88.96419515
-Bangladesh,Rajshahi,Naogaon,Dhamuirhat,Dhamuirhat,6580,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Naogaon,Mahadebpur,Mahadebpur,6530,24.981972925,88.7922615
-Bangladesh,Rajshahi,Naogaon,Naogaon Sadar,Naogaon Sadar,6500,24.8104561,88.93455845
-Bangladesh,Rajshahi,Naogaon,Niamatpur,Niamatpur,6520,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Naogaon,Nitpur,Nitpur,6550,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Naogaon,Nitpur,Panguria,6552,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Naogaon,Nitpur,Porsa,6551,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Naogaon,Patnitala,Patnitala,6540,25.0301133058824,88.7699371588235
-Bangladesh,Rajshahi,Naogaon,Prasadpur,Balihar,6512,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Naogaon,Prasadpur,Manda,6511,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Naogaon,Prasadpur,Prasadpur,6510,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Naogaon,Raninagar,Kashimpur,6591,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Naogaon,Raninagar,Raninagar,6590,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Naogaon,Sapahar,Moduhil,6561,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Naogaon,Sapahar,Sapahar,6560,23.90501325,90.2151312883502
-Bangladesh,Khulna,Narail,Kalia,Kalia,7520,23.0463692207841,89.6538538040251
-Bangladesh,Khulna,Narail,Laxmipasha,Baradia,7514,23.90501325,90.2151312883502
-Bangladesh,Khulna,Narail,Laxmipasha,Itna,7512,23.90501325,90.2151312883502
-Bangladesh,Khulna,Narail,Laxmipasha,Laxmipasha,7510,23.90501325,90.2151312883502
-Bangladesh,Khulna,Narail,Laxmipasha,Lohagora,7511,23.90501325,90.2151312883502
-Bangladesh,Khulna,Narail,Laxmipasha,Naldi,7513,23.90501325,90.2151312883502
-Bangladesh,Khulna,Narail,Mohajan,Mohajan,7521,23.90501325,90.2151312883502
-Bangladesh,Khulna,Narail,Narail Sadar,Narail Sadar,7500,23.90501325,90.2151312883502
-Bangladesh,Khulna,Narail,Narail Sadar,Ratanganj,7501,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Narayanganj,Araihazar,Araihazar,1450,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Narayanganj,Araihazar,Gopaldi,1451,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Narayanganj,Baidder Bazar,Baidder Bazar,1440,23.6200877571429,90.6192909428571
-Bangladesh,Dhaka,Narayanganj,Baidder Bazar,Bara Nagar,1441,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Narayanganj,Baidder Bazar,Barodi,1442,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Narayanganj,Bandar,Bandar,1410,23.6170485619048,90.5186143571429
-Bangladesh,Dhaka,Narayanganj,Bandar,BIDS,1413,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Narayanganj,Bandar,D.C Mills,1411,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Narayanganj,Bandar,Madanganj,1414,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Narayanganj,Bandar,Nabiganj,1412,23.6170522,90.5206773
-Bangladesh,Dhaka,Narayanganj,Fatullah,Fatulla Bazar,1421,23.6674446583333,90.472254275
-Bangladesh,Dhaka,Narayanganj,Fatullah,Fatullah,1420,23.6394513,90.4731281693197
-Bangladesh,Dhaka,Narayanganj,Narayanganj Sadar,Narayanganj Sadar,1400,23.6252805611111,90.4955203944444
-Bangladesh,Dhaka,Narayanganj,Rupganj,Bhulta,1462,23.7841871,90.5705581
-Bangladesh,Dhaka,Narayanganj,Rupganj,Kanchan,1461,23.8306171,90.5550807
-Bangladesh,Dhaka,Narayanganj,Rupganj,Murapara,1464,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Narayanganj,Rupganj,Nagri,1463,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Narayanganj,Rupganj,Rupganj,1460,23.7653406333333,90.5264673666667
-Bangladesh,Dhaka,Narayanganj,Siddirganj,Adamjeenagar,1431,23.67807065,90.51696665
-Bangladesh,Dhaka,Narayanganj,Siddirganj,LN Mills,1432,23.65814945,90.51674145
-Bangladesh,Dhaka,Narayanganj,Siddirganj,Siddirganj,1430,23.6941881733333,90.5078083466667
-Bangladesh,Dhaka,Narshingdi,Belabo,Belabo,1640,24.144979232,90.812687324
-Bangladesh,Dhaka,Narshingdi,Monohordi,Hatirdia,1651,24.10748842,90.7671745
-Bangladesh,Dhaka,Narshingdi,Monohordi,Katabaria,1652,24.1987009333333,90.76918215
-Bangladesh,Dhaka,Narshingdi,Monohordi,Monohordi,1650,24.22610305,90.7343792666667
-Bangladesh,Dhaka,Narshingdi,Narshingdi Sadar,Karimpur,1605,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Narshingdi,Narshingdi Sadar,Madhabdi,1604,23.85395535,90.67322365
-Bangladesh,Dhaka,Narshingdi,Narshingdi Sadar,Narshingdi College,1602,23.9332215458333,90.7213997291667
-Bangladesh,Dhaka,Narshingdi,Narshingdi Sadar,Narshingdi Sadar,1600,23.9288037857143,90.7019575714286
-Bangladesh,Dhaka,Narshingdi,Narshingdi Sadar,Panchdona,1603,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Narshingdi,Narshingdi Sadar,UMC Jute Mills,1601,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Narshingdi,Palash,Char Sindhur,1612,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Narshingdi,Palash,Ghorashal,1613,23.95691345,90.61465115
-Bangladesh,Dhaka,Narshingdi,Palash,Ghorashal Urea Facto,1611,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Narshingdi,Palash,Palash,1610,23.97262275,90.63713275
-Bangladesh,Dhaka,Narshingdi,Raypura,Bazar Hasnabad,1631,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Narshingdi,Raypura,Radhaganj bazar,1632,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Narshingdi,Raypura,Raypura,1630,23.970042,90.8321284
-Bangladesh,Dhaka,Narshingdi,Shibpur,Shibpur,1620,24.03761315,90.732234
-Bangladesh,Rajshahi,Natore,Gopalpur UPO,Abdulpur,6422,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Natore,Gopalpur UPO,Gopalpur U.P.O,6420,24.23382222,89.0164115
-Bangladesh,Rajshahi,Natore,Gopalpur UPO,Lalpur S.O,6421,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Natore,Harua,Baraigram,6432,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Natore,Harua,Dayarampur,6431,24.2897439,89.008877
-Bangladesh,Rajshahi,Natore,Harua,Harua,6430,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Natore,Hatgurudaspur,Hatgurudaspur,6440,24.3698333222222,89.2326025333333
-Bangladesh,Rajshahi,Natore,Laxman,Laxman,6410,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Natore,Natore Sadar,Baiddyabal Gharia,6402,24.46897535,88.9646194
-Bangladesh,Rajshahi,Natore,Natore Sadar,Digapatia,6401,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Natore,Natore Sadar,Madhnagar,6403,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Natore,Natore Sadar,Natore Sadar,6400,24.4153973,88.9944335428572
-Bangladesh,Rajshahi,Natore,Singra,Singra,6450,24.3179921043625,89.445738079043
-Bangladesh,Mymensingh,Netrakona,Atpara,Atpara,2470,24.7648021,90.9623292
-Bangladesh,Mymensingh,Netrakona,Barhatta,Barhatta,2440,23.90501325,90.2151312883502
-Bangladesh,Mymensingh,Netrakona,Dharmapasha,Dharampasha,2450,23.90501325,90.2151312883502
-Bangladesh,Mymensingh,Netrakona,Dhobaura,Dhobaura,2416,23.90501325,90.2151312883502
-Bangladesh,Mymensingh,Netrakona,Dhobaura,Sakoai,2417,23.90501325,90.2151312883502
-Bangladesh,Mymensingh,Netrakona,Kalmakanda,Kalmakanda,2430,25.0773801375,90.8867954625
-Bangladesh,Mymensingh,Netrakona,Kendua,Kendua,2480,24.6622868576923,90.8501224307692
-Bangladesh,Mymensingh,Netrakona,Khaliajuri,Khaliajhri,2460,23.90501325,90.2151312883502
-Bangladesh,Mymensingh,Netrakona,Khaliajuri,Shaldigha,2462,23.90501325,90.2151312883502
-Bangladesh,Mymensingh,Netrakona,Madan,Madan,2490,24.7165918219512,90.9506457317073
-Bangladesh,Mymensingh,Netrakona,Moddhynagar,Moddoynagar,2456,23.90501325,90.2151312883502
-Bangladesh,Mymensingh,Netrakona,Mohanganj,Mohanganj,2446,24.8752016,90.9795084
-Bangladesh,Mymensingh,Netrakona,Netrakona Sadar,Baikherhati,2401,23.90501325,90.2151312883502
-Bangladesh,Mymensingh,Netrakona,Purbadhola,Jaria Jhanjhail,2412,23.90501325,90.2151312883502
-Bangladesh,Mymensingh,Netrakona,Purbadhola,Purbadhola,2410,24.9745589,90.47918615
-Bangladesh,Mymensingh,Netrakona,Purbadhola,Shamgonj,2411,23.90501325,90.2151312883502
-Bangladesh,Mymensingh,Netrakona,Susung Durgapur,Susnng Durgapur,2420,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Nilphamari,Dimla,Dimla,5350,26.2089576235294,88.9080739
-Bangladesh,Rangpur,Nilphamari,Dimla,Ghaga Kharibari,5351,26.1941476333333,88.9056140666667
-Bangladesh,Rangpur,Nilphamari,Domar,Chilahati,5341,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Nilphamari,Domar,Domar,5340,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Nilphamari,Jaldhaka,Jaldhaka,5330,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Nilphamari,Kishoriganj,Kishoriganj,5320,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Nilphamari,Nilphamari Sadar,Nilphamari Sadar,5300,25.91491325,88.8660223857143
-Bangladesh,Rangpur,Nilphamari,Nilphamari Sadar,Nilphamari Sugar Mil,5301,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Nilphamari,Syedpur,Syedpur,5310,25.7806427,88.8931204
-Bangladesh,Rangpur,Nilphamari,Syedpur,Syedpur Upashahar,5311,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Noakhali,Basurhat,Basur Hat,3850,22.82407995,91.3143908
 Bangladesh,Chittagong,Noakhali,Basurhat,Charhajari,3851,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Noakhali,Begumganj,Alaiarpur,3831,23.90501325,90.2151312883502
@@ -1025,102 +436,6 @@ Bangladesh,Chittagong,Noakhali,Senbag,Kallyandi,3861,23.90501325,90.215131288350
 Bangladesh,Chittagong,Noakhali,Senbag,Kankirhat,3863,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Noakhali,Senbag,Senbag,3860,22.9856109,91.2351344333333
 Bangladesh,Chittagong,Noakhali,Senbag,T.P. Lamua,3865,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Pabna,Banwarinagar,Banwarinagar,6650,24.1603510857143,89.4496696571428
-Bangladesh,Rajshahi,Pabna,Bera,Bera,6680,24.0803835351852,89.6249392157407
-Bangladesh,Rajshahi,Pabna,Bera,Kashinathpur,6682,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Pabna,Bera,Nakalia,6681,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Pabna,Bera,Puran Bharenga,6683,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Pabna,Bhangura,Bhangura,6640,24.2615153166667,89.3629577666667
-Bangladesh,Rajshahi,Pabna,Chatmohar,Chatmohar,6630,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Pabna,Debottar,Debottar,6610,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Pabna,Ishwardi,Dhapari,6621,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Pabna,Ishwardi,Ishwardi,6620,24.1166606,89.096921
-Bangladesh,Rajshahi,Pabna,Ishwardi,Pakshi,6622,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Pabna,Ishwardi,Rajapur,6623,24.2304007,89.1199398
-Bangladesh,Rajshahi,Pabna,Pabna Sadar,Hamayetpur,6602,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Pabna,Pabna Sadar,Kaliko Cotton Mills,6601,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Pabna,Pabna Sadar,Pabna Sadar,6600,24.0181026733333,89.23626378
-Bangladesh,Rajshahi,Pabna,Sathia,Sathia,6670,23.9967136,89.4736522
-Bangladesh,Rajshahi,Pabna,Sujanagar,Sagarkandi,6661,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Pabna,Sujanagar,Sujanagar,6660,23.88746165,89.4415391
-Bangladesh,Rangpur,Panchagarh,Boda,Boda,5010,26.2771216,88.5622984
-Bangladesh,Rangpur,Panchagarh,Chotto Dab,Chotto Dab,5040,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Panchagarh,Chotto Dab,Mirjapur,5041,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Panchagarh,Dabiganj,Dabiganj,5020,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Panchagarh,Panchagra Sadar,Panchagar Sadar,5000,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Panchagarh,Tetulia,Tetulia,5030,23.90501325,90.2151312883502
-Bangladesh,Barishal,Patuakhali,Bauphal,Bagabandar,8621,23.90501325,90.2151312883502
-Bangladesh,Barishal,Patuakhali,Bauphal,Bauphal,8620,22.40105035,90.49725315
-Bangladesh,Barishal,Patuakhali,Bauphal,Birpasha,8622,23.90501325,90.2151312883502
-Bangladesh,Barishal,Patuakhali,Bauphal,Kalaia,8624,23.90501325,90.2151312883502
-Bangladesh,Barishal,Patuakhali,Bauphal,Kalishari,8623,23.90501325,90.2151312883502
-Bangladesh,Barishal,Patuakhali,Dashmina,Dashmina,8630,22.2832456,90.5622027
-Bangladesh,Barishal,Patuakhali,Galachipa,Galachipa,8640,23.90501325,90.2151312883502
-Bangladesh,Barishal,Patuakhali,Galachipa,Gazipur Bandar,8641,23.90501325,90.2151312883502
-Bangladesh,Barishal,Patuakhali,Khepupara,Khepupara,8650,21.9897493,90.2228075
-Bangladesh,Barishal,Patuakhali,Khepupara,Mahipur,8651,23.90501325,90.2151312883502
-Bangladesh,Barishal,Patuakhali,Patuakhali Sadar,Dumkee,8602,22.4654801976744,90.3828595046512
-Bangladesh,Barishal,Patuakhali,Patuakhali Sadar,Moukaran,8601,23.90501325,90.2151312883502
-Bangladesh,Barishal,Patuakhali,Patuakhali Sadar,Patuakhali Sadar,8600,22.3540867681818,90.3386862590909
-Bangladesh,Barishal,Patuakhali,Patuakhali Sadar,Rahimabad,8603,23.90501325,90.2151312883502
-Bangladesh,Barishal,Patuakhali,Subidkhali,Subidkhali,8610,23.90501325,90.2151312883502
-Bangladesh,Barishal,Pirojpur,Banaripara,Banaripara,8530,22.7779995,90.1112407666667
-Bangladesh,Barishal,Pirojpur,Banaripara,Chakhar,8531,23.90501325,90.2151312883502
-Bangladesh,Barishal,Pirojpur,Bhandaria,Bhandaria,8550,22.4848224,90.0600712
-Bangladesh,Barishal,Pirojpur,Bhandaria,Dhaoa,8552,23.90501325,90.2151312883502
-Bangladesh,Barishal,Pirojpur,Bhandaria,Kanudashkathi,8551,23.90501325,90.2151312883502
-Bangladesh,Barishal,Pirojpur,kaukhali,Jolagati,8513,23.90501325,90.2151312883502
-Bangladesh,Barishal,Pirojpur,kaukhali,Joykul,8512,23.90501325,90.2151312883502
-Bangladesh,Barishal,Pirojpur,kaukhali,Kaukhali,8510,22.6223123117647,90.0643565411765
-Bangladesh,Barishal,Pirojpur,kaukhali,Keundia,8511,23.90501325,90.2151312883502
-Bangladesh,Barishal,Pirojpur,Mathbaria,Betmor Natun Hat,8565,23.90501325,90.2151312883502
-Bangladesh,Barishal,Pirojpur,Mathbaria,Gulishakhali,8563,23.90501325,90.2151312883502
-Bangladesh,Barishal,Pirojpur,Mathbaria,Halta,8562,23.90501325,90.2151312883502
-Bangladesh,Barishal,Pirojpur,Mathbaria,Mathbaria,8560,22.291689975,89.968578825
-Bangladesh,Barishal,Pirojpur,Mathbaria,Shilarganj,8566,23.90501325,90.2151312883502
-Bangladesh,Barishal,Pirojpur,Mathbaria,Tiarkhali,8564,23.90501325,90.2151312883502
-Bangladesh,Barishal,Pirojpur,Mathbaria,Tushkhali,8561,23.90501325,90.2151312883502
-Bangladesh,Barishal,Pirojpur,Nazirpur,Nazirpur,8540,23.90501325,90.2151312883502
-Bangladesh,Barishal,Pirojpur,Nazirpur,Sriramkathi,8541,23.90501325,90.2151312883502
-Bangladesh,Barishal,Pirojpur,Pirojpur Sadar,Hularhat,8501,23.90501325,90.2151312883502
-Bangladesh,Barishal,Pirojpur,Pirojpur Sadar,Parerhat,8502,23.90501325,90.2151312883502
-Bangladesh,Barishal,Pirojpur,Pirojpur Sadar,Pirojpur Sadar,8500,22.571957,89.9720518333333
-Bangladesh,Barishal,Pirojpur,Swarupkathi,Darus Sunnat,8521,23.90501325,90.2151312883502
-Bangladesh,Barishal,Pirojpur,Swarupkathi,Jalabari,8523,23.90501325,90.2151312883502
-Bangladesh,Barishal,Pirojpur,Swarupkathi,Kaurikhara,8522,22.754885,90.0862571
-Bangladesh,Barishal,Pirojpur,Swarupkathi,Swarupkathi,8520,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Rajbari,Baliakandi,Baliakandi,7730,23.6422239666667,89.473094
-Bangladesh,Dhaka,Rajbari,Baliakandi,Nalia,7731,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Rajbari,Pangsha,Mrigibazar,7723,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Rajbari,Pangsha,Pangsha,7720,23.789428225,89.423632225
-Bangladesh,Dhaka,Rajbari,Pangsha,Ramkol,7721,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Rajbari,Pangsha,Ratandia,7722,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Rajbari,Rajbari Sadar,Goalanda,7710,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Rajbari,Rajbari Sadar,Khankhanapur,7711,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Rajbari,Rajbari Sadar,Rajbari Sadar,7700,23.7554863333333,89.6440577
-Bangladesh,Rajshahi,Rajshahi,Bagha,Arani,6281,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Rajshahi,Bagha,Bagha,6280,24.1851672,88.852382
-Bangladesh,Rajshahi,Rajshahi,Bhabaniganj,Bhabaniganj,6250,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Rajshahi,Bhabaniganj,Taharpur,6251,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Rajshahi,Charghat,Charghat,6270,24.25921015,88.77033175
-Bangladesh,Rajshahi,Rajshahi,Charghat,Sarda,6271,24.2946781555556,88.7419258555556
-Bangladesh,Rajshahi,Rajshahi,Durgapur,Durgapur,6240,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Rajshahi,Godagari,Godagari,6290,24.4664988,88.3192174
-Bangladesh,Rajshahi,Rajshahi,Godagari,Premtoli,6291,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Rajshahi,Khod Mohanpur,Khodmohanpur,6220,24.5516014,88.67261795
-Bangladesh,Rajshahi,Rajshahi,Lalitganj,Lalitganj,6210,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Rajshahi,Lalitganj,Rajshahi Sugar Mills,6211,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Rajshahi,Lalitganj,Shyampur,6212,24.35962965,88.6768393
-Bangladesh,Rajshahi,Rajshahi,Putia,Putia,6260,24.3620799666667,88.8385442333333
-Bangladesh,Rajshahi,Rajshahi,Rajshahi Sadar,Binodpur Bazar,6206,24.365627,88.6464467
-Bangladesh,Rajshahi,Rajshahi,Rajshahi Sadar,Ghuramara,6100,24.3660778363636,88.6039353909091
-Bangladesh,Rajshahi,Rajshahi,Rajshahi Sadar,Kazla,6204,24.3635233333333,88.6329637
-Bangladesh,Rajshahi,Rajshahi,Rajshahi Sadar,Rajshahi Canttonment,6202,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Rajshahi,Rajshahi Sadar,Rajshahi Court,6201,23.90501325,90.2151312883502
-Bangladesh,Rajshahi,Rajshahi,Rajshahi Sadar,Rajshahi Sadar,6000,24.364276,88.5922052
-Bangladesh,Rajshahi,Rajshahi,Rajshahi Sadar,Rajshahi University,6205,24.3695524862069,88.6366702448276
-Bangladesh,Rajshahi,Rajshahi,Rajshahi Sadar,Sapura,6203,24.395019355,88.604697375
-Bangladesh,Rajshahi,Rajshahi,Tanor,Tanor,6230,24.6345985,88.6086019
 Bangladesh,Chittagong,Rangamati,Barakal,Barakal,4570,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Rangamati,Bilaichhari,Bilaichhari,4550,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Rangamati,Jarachhari,Jarachhari,4560,23.90501325,90.2151312883502
@@ -1135,20 +450,448 @@ Bangladesh,Chittagong,Rangamati,Marishya,Marishya,4590,23.3909219,92.2855054
 Bangladesh,Chittagong,Rangamati,Naniachhar,Nanichhar,4520,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Rangamati,Rajsthali,Rajsthali,4540,23.90501325,90.2151312883502
 Bangladesh,Chittagong,Rangamati,Rangamati Sadar,Rangamati Sadar,4500,22.5922390428571,92.1373443428572
-Bangladesh,Rangpur,Rangpur,Badarganj,Badarganj,5430,25.67675845,89.05328435
-Bangladesh,Rangpur,Rangpur,Badarganj,Shyampur,5431,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Rangpur,Gangachara,Gangachara,5410,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Rangpur,Kaunia,Haragachh,5441,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Rangpur,Kaunia,Kaunia,5440,25.73972645,89.44942485
-Bangladesh,Rangpur,Rangpur,Mithapukur,Mithapukur,5460,25.5682266266667,89.27315068
-Bangladesh,Rangpur,Rangpur,Pirgachha,Pirgachha,5450,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Rangpur,Rangpur Sadar,Alamnagar,5402,25.7388531,89.2519403
-Bangladesh,Rangpur,Rangpur,Rangpur Sadar,Mahiganj,5403,25.7245323,89.29650225
-Bangladesh,Rangpur,Rangpur,Rangpur Sadar,Rangpur Cadet Colleg,5404,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Rangpur,Rangpur Sadar,Rangpur Carmiecal Col,5405,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Rangpur,Rangpur Sadar,Rangpur Sadar,5400,25.7466755636364,89.2479198969697
-Bangladesh,Rangpur,Rangpur,Rangpur Sadar,Rangpur Upa-Shahar,5401,25.7615824166667,89.2243741833333
-Bangladesh,Rangpur,Rangpur,Taraganj,Taraganj,5420,25.8122006,89.0216669
+Bangladesh,Dhaka,Dhaka,Demra,Demra,1360,23.724821564,90.482148196
+Bangladesh,Dhaka,Dhaka,Demra,Matuail,1362,23.7000582923077,90.4684652153846
+Bangladesh,Dhaka,Dhaka,Demra,Sarulia,1361,23.71110882,90.47675966
+Bangladesh,Dhaka,Dhaka,Dhaka Cantt.,Dhaka CantonmentTSO,1206,23.813248691195,90.3891489194969
+Bangladesh,Dhaka,Dhaka,Dhamrai,Dhamrai,1350,23.91644355,90.21813443
+Bangladesh,Dhaka,Dhaka,Dhamrai,Kamalpur,1351,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Dhaka,Dhanmondi,Jigatala TSO,1209,23.7359947993671,90.3822009822785
+Bangladesh,Dhaka,Dhaka,Gulshan,Banani TSO,1213,23.784459894523,90.409811085318
+Bangladesh,Dhaka,Dhaka,Gulshan,Gulshan Model Town,1212,23.7855280378738,90.4165796921927
+Bangladesh,Dhaka,Dhaka,Jatrabari,Dhania TSO,1232,23.7083840166667,90.4350518833333
+Bangladesh,Dhaka,Dhaka,Joypara,Joypara,1330,23.6268683173913,90.0954072695652
+Bangladesh,Dhaka,Dhaka,Joypara,Narisha,1332,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Dhaka,Joypara,Palamganj,1331,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Dhaka,Keraniganj,Ati,1312,23.7249438642857,90.3450942857143
+Bangladesh,Dhaka,Dhaka,Keraniganj,Dhaka Jute Mills,1311,23.63774995,90.4602401
+Bangladesh,Dhaka,Dhaka,Keraniganj,Kalatia,1313,23.7286319,90.2935705
+Bangladesh,Dhaka,Dhaka,Keraniganj,Keraniganj,1310,23.7040163307692,90.3930811615385
+Bangladesh,Dhaka,Dhaka,Khilgaon,KhilgaonTSO,1219,23.757773051087,90.4253521160326
+Bangladesh,Dhaka,Dhaka,Khilkhet,KhilkhetTSO,1229,23.8227995392405,90.4250953088608
+Bangladesh,Dhaka,Dhaka,Lalbag,Posta TSO,1211,23.7253397258824,90.3878354717647
+Bangladesh,Dhaka,Dhaka,Mirpur,Mirpur TSO,1216,23.80839569494,90.36782245506
+Bangladesh,Dhaka,Dhaka,Mohammadpur,Mohammadpur Housing,1207,23.7643517221373,90.36303918549
+Bangladesh,Dhaka,Dhaka,Mohammadpur,Sangsad BhabanTSO,1225,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Dhaka,Motijheel,BangabhabanTSO,1222,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Dhaka,Motijheel,DilkushaTSO,1223,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Dhaka,Nawabganj,Agla,1323,23.6424197,90.2060281
+Bangladesh,Dhaka,Dhaka,Nawabganj,Churain,1325,23.6151736,90.2178544
+Bangladesh,Dhaka,Dhaka,Nawabganj,Daudpur,1322,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Dhaka,Nawabganj,Hasnabad,1321,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Dhaka,Nawabganj,Khalpar,1324,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Dhaka,Nawabganj,Nawabganj,1320,22.001277,90.3002881483381
+Bangladesh,Dhaka,Dhaka,New market,New Market TSO,1205,23.7399848350217,90.3831364149059
+Bangladesh,Dhaka,Dhaka,Palton,Dhaka GPO,1000,23.7325555809524,90.4063016268708
+Bangladesh,Dhaka,Dhaka,Ramna,Shantinagr TSO,1217,23.743677530625,90.41254877375
+Bangladesh,Dhaka,Dhaka,Sabujbag,Basabo TSO,1214,23.7408146166667,90.4342628666667
+Bangladesh,Dhaka,Dhaka,Savar,Amin Bazar,1348,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Dhaka,Savar,Dairy Farm,1341,23.8982365125,90.3092774875
+Bangladesh,Dhaka,Dhaka,Savar,EPZ,1349,23.94792958,90.2792810533333
+Bangladesh,Dhaka,Dhaka,Savar,Jahangirnagar Univer,1342,23.8836347465116,90.2676794
+Bangladesh,Dhaka,Dhaka,Savar,Kashem Cotton Mills,1346,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Dhaka,Savar,Rajphulbaria,1347,23.80767628,90.25808122
+Bangladesh,Dhaka,Dhaka,Savar,Savar,1340,23.8485849973684,90.2624838842105
+Bangladesh,Dhaka,Dhaka,Savar,Savar Canttonment,1344,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Dhaka,Savar,Saver P.A.T.C,1343,23.8740617555556,90.2637860888889
+Bangladesh,Dhaka,Dhaka,Savar,Shimulia,1345,23.8963707666667,90.2781347333333
+Bangladesh,Dhaka,Dhaka,Sutrapur,Dhaka Sadar HO,1100,23.7143056939394,90.408314219697
+Bangladesh,Dhaka,Dhaka,Sutrapur,Gendaria TSO,1204,23.7018488520518,90.4238403298056
+Bangladesh,Dhaka,Dhaka,Sutrapur,Wari TSO,1203,23.7192009470588,90.4220403323529
+Bangladesh,Dhaka,Dhaka,Tejgaon,Tejgaon TSO,1215,23.7561937617284,90.389663454321
+Bangladesh,Dhaka,Dhaka,Tejgaon Industrial Area,Dhaka Politechnic,1208,23.764710598,90.403092558
+Bangladesh,Dhaka,Dhaka,Uttara,Uttara Model TwonTSO,1230,23.8560060112613,90.4086021941441
+Bangladesh,Dhaka,Faridpur,Alfadanga,Alfadanga,7870,23.2962222,89.687849
+Bangladesh,Dhaka,Faridpur,Bhanga,Bhanga,7830,23.3890222,89.9853912833333
+Bangladesh,Dhaka,Faridpur,Boalmari,Boalmari,7860,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Faridpur,Boalmari,Rupatpat,7861,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Faridpur,Charbhadrasan,Charbadrashan,7810,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Faridpur,Faridpur Sadar,Ambikapur,7802,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Faridpur,Faridpur Sadar,Baitulaman Politecni,7803,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Faridpur,Faridpur Sadar,Faridpursadar,7800,23.6864864888889,89.8399327111111
+Bangladesh,Dhaka,Faridpur,Faridpur Sadar,Kanaipur,7801,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Faridpur,Madukhali,Kamarkali,7851,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Faridpur,Madukhali,Madukhali,7850,23.4996748,89.6232661
+Bangladesh,Dhaka,Faridpur,Nagarkanda,Nagarkanda,7840,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Faridpur,Nagarkanda,Talma,7841,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Faridpur,Sadarpur,Bishwa jaker Manjil,7822,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Faridpur,Sadarpur,Hat Krishapur,7821,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Faridpur,Sadarpur,Sadarpur,7820,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Faridpur,Shriangan,Shriangan,7804,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Gazipur,Gazipur Sadar,B.O.F,1703,24.033321,90.4157431
+Bangladesh,Dhaka,Gazipur,Gazipur Sadar,B.R.R,1701,23.99170592,90.40776136
+Bangladesh,Dhaka,Gazipur,Gazipur Sadar,Chandna,1702,24.0855436333333,90.38185675
+Bangladesh,Dhaka,Gazipur,Gazipur Sadar,Gazipur Sadar,1700,23.9976977,90.34383565
+Bangladesh,Dhaka,Gazipur,Gazipur Sadar,National University,1704,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Gazipur,Kaliakaar,Kaliakaar,1750,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Gazipur,Kaliakaar,Safipur,1751,24.021390625,90.2937516
+Bangladesh,Dhaka,Gazipur,Kaliganj,Kaliganj,1720,23.8731788,90.580945
+Bangladesh,Dhaka,Gazipur,Kaliganj,Pubail,1721,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Gazipur,Kaliganj,Santanpara,1722,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Gazipur,Kaliganj,Vaoal Jamalpur,1723,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Gazipur,Kapashia,kapashia,1730,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Gazipur,Monnunagar,Ershad Nagar,1712,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Gazipur,Monnunagar,Monnunagar,1710,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Gazipur,Monnunagar,Nishat Nagar,1711,23.9046096,90.3915299
+Bangladesh,Dhaka,Gazipur,Sreepur,Barmi,1743,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Gazipur,Sreepur,Bashamur,1747,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Gazipur,Sreepur,Boubi,1748,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Gazipur,Sreepur,Kawraid,1745,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Gazipur,Sreepur,Satkhamair,1744,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Gazipur,Sreepur,Sreepur,1740,24.2210736333333,90.4219707666667
+Bangladesh,Dhaka,Gazipur,Sripur,Rajendrapur,1741,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Gazipur,Sripur,Rajendrapur Canttome,1742,24.073367,90.4976168875
+Bangladesh,Dhaka,Gopalganj,Gopalganj Sadar,Barfa,8102,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Gopalganj,Gopalganj Sadar,Chandradighalia,8013,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Gopalganj,Gopalganj Sadar,Gopalganj Sadar,8100,22.97753975,89.81575935
+Bangladesh,Dhaka,Gopalganj,Gopalganj Sadar,Ulpur,8101,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Gopalganj,Kashiani,Jonapur,8133,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Gopalganj,Kashiani,Kashiani,8130,23.2126696,89.7071602375
+Bangladesh,Dhaka,Gopalganj,Kashiani,Ramdia College,8131,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Gopalganj,Kashiani,Ratoil,8132,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Gopalganj,Kotalipara,Kotalipara,8110,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Gopalganj,Maksudpur,Batkiamari,8141,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Gopalganj,Maksudpur,Khandarpara,8142,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Gopalganj,Maksudpur,Maksudpur,8140,23.2838904444444,89.8349322555556
+Bangladesh,Dhaka,Gopalganj,Tungipara,Patgati,8121,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Gopalganj,Tungipara,Tungipara,8120,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Kishoreganj,Bajitpur,Bajitpur,2336,24.2146664,90.9523478
+Bangladesh,Dhaka,Kishoreganj,Bajitpur,Laksmipur,2338,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Kishoreganj,Bajitpur,Sararchar,2337,24.2488631,90.8992231
+Bangladesh,Dhaka,Kishoreganj,Bhairob,Bhairab,2350,24.0499217233333,90.9841930133333
+Bangladesh,Dhaka,Kishoreganj,Hossenpur,Hossenpur,2320,24.4541863782609,90.6396609478261
+Bangladesh,Dhaka,Kishoreganj,Itna,Itna,2390,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Kishoreganj,Karimganj,Karimganj,2310,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Kishoreganj,Katiadi,Gochhihata,2331,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Kishoreganj,Katiadi,Katiadi,2330,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Kishoreganj,Kishoreganj Sadar,Kishoreganj Sadar,2300,24.4467269526316,90.7801412263158
+Bangladesh,Dhaka,Kishoreganj,Kishoreganj Sadar,Kishoreganj S.Mills,2301,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Kishoreganj,Kishoreganj Sadar,Maizhati,2302,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Kishoreganj,Kishoreganj Sadar,Nilganj,2303,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Kishoreganj,Kuliarchar,Chhoysuti,2341,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Kishoreganj,Kuliarchar,Kuliarchar,2340,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Kishoreganj,Mithamoin,Abdullahpur,2371,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Kishoreganj,Mithamoin,MIthamoin,2370,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Kishoreganj,Nikli,Nikli,2360,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Kishoreganj,Ostagram,Ostagram,2380,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Kishoreganj,Pakundia,Pakundia,2326,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Kishoreganj,Tarial,Tarial,2316,24.54923,90.8912914
+Bangladesh,Dhaka,Madaripur,Barhamganj,Bahadurpur,7932,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Madaripur,Barhamganj,Barhamganj,7930,23.36833116,90.16561124
+Bangladesh,Dhaka,Madaripur,Barhamganj,Nilaksmibandar,7931,23.3688409444444,90.1031753777778
+Bangladesh,Dhaka,Madaripur,Barhamganj,Umedpur,7933,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Madaripur,kalkini,Kalkini,7920,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Madaripur,kalkini,Sahabrampur,7921,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Madaripur,Madaripur Sadar,Charmugria,7901,23.1975898,90.1243026
+Bangladesh,Dhaka,Madaripur,Madaripur Sadar,Habiganj,7903,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Madaripur,Madaripur Sadar,Kulpaddi,7902,23.1767540333333,90.1574161
+Bangladesh,Dhaka,Madaripur,Madaripur Sadar,Madaripur Sadar,7900,23.1691321222222,90.2021554888889
+Bangladesh,Dhaka,Madaripur,Madaripur Sadar,Mustafapur,7904,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Madaripur,Rajoir,Khalia,7911,23.23953625,89.958359625
+Bangladesh,Dhaka,Madaripur,Rajoir,Rajoir,7910,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Manikganj,Doulatpur,Doulatpur,1860,23.9650471,89.7355102
+Bangladesh,Dhaka,Manikganj,Gheor,Gheor,1840,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Manikganj,Lechhraganj,Jhitka,1831,23.7689746666667,89.9037184
+Bangladesh,Dhaka,Manikganj,Lechhraganj,Lechhraganj,1830,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Manikganj,Manikganj Sadar,Barangail,1804,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Manikganj,Manikganj Sadar,Gorpara,1802,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Manikganj,Manikganj Sadar,Mahadebpur,1803,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Manikganj,Manikganj Sadar,Manikganj Bazar,1801,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Manikganj,Manikganj Sadar,Manikganj Sadar,1800,23.8523795787234,89.9962117255319
+Bangladesh,Dhaka,Manikganj,Saturia,Baliati,1811,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Manikganj,Saturia,Saturia,1810,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Manikganj,Shibloya,Aricha,1851,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Manikganj,Shibloya,Shibaloy,1850,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Manikganj,Shibloya,Tewta,1852,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Manikganj,Shibloya,Uthli,1853,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Manikganj,Singari,Baira,1821,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Manikganj,Singari,joymantop,1822,23.7956027,90.1723481
+Bangladesh,Dhaka,Manikganj,Singari,Singair,1820,23.8163692,90.1152457
+Bangladesh,Dhaka,Munshiganj,Gajaria,Gajaria,1510,23.5506613888889,90.6504264555556
+Bangladesh,Dhaka,Munshiganj,Gajaria,Hossendi,1511,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Munshiganj,Gajaria,Rasulpur,1512,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Munshiganj,Lohajong,Gouragonj,1334,23.921202,90.239634
+Bangladesh,Dhaka,Munshiganj,Lohajong,Gouragonj,1534,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Munshiganj,Lohajong,Haldia SO,1532,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Munshiganj,Lohajong,Haridia,1333,22.7906046,89.26592125
+Bangladesh,Dhaka,Munshiganj,Lohajong,Haridia DESO,1533,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Munshiganj,Lohajong,Korhati,1531,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Munshiganj,Lohajong,Lohajang,1530,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Munshiganj,Lohajong,Madini Mandal,1335,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Munshiganj,Lohajong,Medini Mandal EDSO,1535,23.4940594,90.2673128
+Bangladesh,Dhaka,Munshiganj,Munshiganj Sadar,Kathakhali,1503,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Munshiganj,Munshiganj Sadar,Mirkadim,1502,23.55972475,90.4859777833334
+Bangladesh,Dhaka,Munshiganj,Munshiganj Sadar,Munshiganj Sadar,1500,23.4652557714286,90.5262279
+Bangladesh,Dhaka,Munshiganj,Munshiganj Sadar,Rikabibazar,1501,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Munshiganj,Sirajdikhan,Ichapur,1542,23.5501650714286,90.3933589857143
+Bangladesh,Dhaka,Munshiganj,Sirajdikhan,Kola,1541,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Munshiganj,Sirajdikhan,Malkha Nagar,1543,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Munshiganj,Sirajdikhan,Shekher Nagar,1544,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Munshiganj,Sirajdikhan,Sirajdikhan,1540,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Munshiganj,Srinagar,Baghra,1557,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Munshiganj,Srinagar,Barikhal,1551,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Munshiganj,Srinagar,Bhaggyakul,1558,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Munshiganj,Srinagar,Hashara,1553,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Munshiganj,Srinagar,Kolapara,1554,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Munshiganj,Srinagar,Kumarbhog,1555,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Munshiganj,Srinagar,Mazpara,1552,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Munshiganj,Srinagar,Srinagar,1550,23.51990405,90.2934461
+Bangladesh,Dhaka,Munshiganj,Srinagar,Vaggyakul SO,1556,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Munshiganj,Tangibari,Bajrajugini,1523,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Munshiganj,Tangibari,Baligao,1522,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Munshiganj,Tangibari,Betkahat,1521,23.5327859636364,90.4569516545454
+Bangladesh,Dhaka,Munshiganj,Tangibari,Dighirpar,1525,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Munshiganj,Tangibari,Hasail,1524,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Munshiganj,Tangibari,Pura,1527,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Munshiganj,Tangibari,Pura EDSO,1526,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Munshiganj,Tangibari,Tangibari,1520,23.5125577465116,90.4716343325581
+Bangladesh,Dhaka,Narayanganj,Araihazar,Araihazar,1450,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Narayanganj,Araihazar,Gopaldi,1451,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Narayanganj,Baidder Bazar,Baidder Bazar,1440,23.6200877571429,90.6192909428571
+Bangladesh,Dhaka,Narayanganj,Baidder Bazar,Bara Nagar,1441,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Narayanganj,Baidder Bazar,Barodi,1442,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Narayanganj,Bandar,Bandar,1410,23.6170485619048,90.5186143571429
+Bangladesh,Dhaka,Narayanganj,Bandar,BIDS,1413,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Narayanganj,Bandar,D.C Mills,1411,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Narayanganj,Bandar,Madanganj,1414,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Narayanganj,Bandar,Nabiganj,1412,23.6170522,90.5206773
+Bangladesh,Dhaka,Narayanganj,Fatullah,Fatulla Bazar,1421,23.6674446583333,90.472254275
+Bangladesh,Dhaka,Narayanganj,Fatullah,Fatullah,1420,23.6394513,90.4731281693197
+Bangladesh,Dhaka,Narayanganj,Narayanganj Sadar,Narayanganj Sadar,1400,23.6252805611111,90.4955203944444
+Bangladesh,Dhaka,Narayanganj,Rupganj,Bhulta,1462,23.7841871,90.5705581
+Bangladesh,Dhaka,Narayanganj,Rupganj,Kanchan,1461,23.8306171,90.5550807
+Bangladesh,Dhaka,Narayanganj,Rupganj,Murapara,1464,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Narayanganj,Rupganj,Nagri,1463,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Narayanganj,Rupganj,Rupganj,1460,23.7653406333333,90.5264673666667
+Bangladesh,Dhaka,Narayanganj,Siddirganj,Adamjeenagar,1431,23.67807065,90.51696665
+Bangladesh,Dhaka,Narayanganj,Siddirganj,LN Mills,1432,23.65814945,90.51674145
+Bangladesh,Dhaka,Narayanganj,Siddirganj,Siddirganj,1430,23.6941881733333,90.5078083466667
+Bangladesh,Dhaka,Narshingdi,Belabo,Belabo,1640,24.144979232,90.812687324
+Bangladesh,Dhaka,Narshingdi,Monohordi,Hatirdia,1651,24.10748842,90.7671745
+Bangladesh,Dhaka,Narshingdi,Monohordi,Katabaria,1652,24.1987009333333,90.76918215
+Bangladesh,Dhaka,Narshingdi,Monohordi,Monohordi,1650,24.22610305,90.7343792666667
+Bangladesh,Dhaka,Narshingdi,Narshingdi Sadar,Karimpur,1605,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Narshingdi,Narshingdi Sadar,Madhabdi,1604,23.85395535,90.67322365
+Bangladesh,Dhaka,Narshingdi,Narshingdi Sadar,Narshingdi College,1602,23.9332215458333,90.7213997291667
+Bangladesh,Dhaka,Narshingdi,Narshingdi Sadar,Narshingdi Sadar,1600,23.9288037857143,90.7019575714286
+Bangladesh,Dhaka,Narshingdi,Narshingdi Sadar,Panchdona,1603,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Narshingdi,Narshingdi Sadar,UMC Jute Mills,1601,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Narshingdi,Palash,Char Sindhur,1612,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Narshingdi,Palash,Ghorashal,1613,23.95691345,90.61465115
+Bangladesh,Dhaka,Narshingdi,Palash,Ghorashal Urea Facto,1611,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Narshingdi,Palash,Palash,1610,23.97262275,90.63713275
+Bangladesh,Dhaka,Narshingdi,Raypura,Bazar Hasnabad,1631,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Narshingdi,Raypura,Radhaganj bazar,1632,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Narshingdi,Raypura,Raypura,1630,23.970042,90.8321284
+Bangladesh,Dhaka,Narshingdi,Shibpur,Shibpur,1620,24.03761315,90.732234
+Bangladesh,Dhaka,Rajbari,Baliakandi,Baliakandi,7730,23.6422239666667,89.473094
+Bangladesh,Dhaka,Rajbari,Baliakandi,Nalia,7731,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Rajbari,Pangsha,Mrigibazar,7723,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Rajbari,Pangsha,Pangsha,7720,23.789428225,89.423632225
+Bangladesh,Dhaka,Rajbari,Pangsha,Ramkol,7721,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Rajbari,Pangsha,Ratandia,7722,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Rajbari,Rajbari Sadar,Goalanda,7710,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Rajbari,Rajbari Sadar,Khankhanapur,7711,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Rajbari,Rajbari Sadar,Rajbari Sadar,7700,23.7554863333333,89.6440577
+Bangladesh,Dhaka,Shariatpur,Bhedorganj,Bhedorganj,8030,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Shariatpur,Damudhya,Damudhya,8040,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Shariatpur,Gosairhat,Gosairhat,8050,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Shariatpur,Jajira,Jajira,8010,23.37171556,90.29590416
+Bangladesh,Dhaka,Shariatpur,Naria,Bhozeshwar,8021,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Shariatpur,Naria,Gharisar,8022,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Shariatpur,Naria,Kartikpur,8024,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Shariatpur,Naria,Naria,8020,23.30230405,90.36097565
+Bangladesh,Dhaka,Shariatpur,Naria,Upshi,8023,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Shariatpur,Shariatpur Sadar,Angaria,8001,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Shariatpur,Shariatpur Sadar,Chikandi,8002,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Shariatpur,Shariatpur Sadar,Shariatpur Sadar,8000,23.2159398333333,90.3478598333333
+Bangladesh,Dhaka,Tangail,Basail,Basail,1920,24.2290922846154,90.0533928923077
+Bangladesh,Dhaka,Tangail,Bhuapur,Bhuapur,1960,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Tangail,Delduar,Delduar,1910,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Tangail,Delduar,Elasin,1913,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Tangail,Delduar,Hinga Nagar,1914,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Tangail,Delduar,Jangalia,1911,22.7235941,90.6385213
+Bangladesh,Dhaka,Tangail,Delduar,Lowhati,1915,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Tangail,Delduar,Patharail,1912,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Tangail,Ghatail,Dhalapara,1983,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Tangail,Ghatail,D. Pakutia,1982,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Tangail,Ghatail,Ghatial,1980,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Tangail,Ghatail,Lohani,1984,23.52742155,90.45593165
+Bangladesh,Dhaka,Tangail,Ghatail,Zahidganj,1981,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Tangail,Gopalpur,Gopalpur,1990,24.564634,89.917136625
+Bangladesh,Dhaka,Tangail,Gopalpur,Hemnagar,1992,25.42538815,89.375762470151
+Bangladesh,Dhaka,Tangail,Gopalpur,Jhowail,1991,22.2823715,91.7809482
+Bangladesh,Dhaka,Tangail,Kalihati,Ballabazar,1973,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Tangail,Kalihati,Elinga,1974,25.4160306,89.7776476
+Bangladesh,Dhaka,Tangail,Kalihati,Kalihati,1970,22.7236238,90.6405008
+Bangladesh,Dhaka,Tangail,Kalihati,Nagarbari,1977,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Tangail,Kalihati,Nagarbari SO,1976,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Tangail,Kalihati,Nagbari,1972,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Tangail,Kalihati,Palisha,1975,25.4196669,89.7683832
+Bangladesh,Dhaka,Tangail,Kalihati,Rajafair,1971,22.81983155,89.5443820762697
+Bangladesh,Dhaka,Tangail,Kashkaolia,Kashkawlia,1930,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Tangail,Madhupur,Dhobari,1997,24.6794477,89.9786399
+Bangladesh,Dhaka,Tangail,Madhupur,Madhupur,1996,24.62367005,90.0438496827586
+Bangladesh,Dhaka,Tangail,Mirzapur,Gorai,1941,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Tangail,Mirzapur,Jarmuki,1944,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Tangail,Mirzapur,M.C. College,1942,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Tangail,Mirzapur,Mirzapur,1940,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Tangail,Mirzapur,Mohera,1945,24.129742,90.0436449
+Bangladesh,Dhaka,Tangail,Mirzapur,Warri paikpara,1943,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Tangail,Nagarpur,Dhuburia,1937,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Tangail,Nagarpur,Nagarpur,1936,24.0592347,89.8214601
+Bangladesh,Dhaka,Tangail,Nagarpur,Salimabad,1938,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Tangail,Sakhipur,Kochua,1951,24.3677901,90.198773725
+Bangladesh,Dhaka,Tangail,Sakhipur,Sakhipur,1950,24.2235084875,90.1776182625
+Bangladesh,Dhaka,Tangail,Tangail Sadar,Kagmari,1901,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Tangail,Tangail Sadar,Korotia,1903,24.2214192444444,89.9776848333334
+Bangladesh,Dhaka,Tangail,Tangail Sadar,Purabari,1904,23.90501325,90.2151312883502
+Bangladesh,Dhaka,Tangail,Tangail Sadar,Santosh,1902,24.2394041,89.8892161
+Bangladesh,Dhaka,Tangail,Tangail Sadar,Tangail Sadar,1900,24.2569708708333,89.9177313458333
+Bangladesh,Khulna,Bagherhat,Bagerhat Sadar,Bagerhat Sadar,9300,22.6610090166667,89.7650664333333
+Bangladesh,Khulna,Bagherhat,Bagerhat Sadar,P.C College,9301,23.90501325,90.2151312883502
+Bangladesh,Khulna,Bagherhat,Bagerhat Sadar,Rangdia,9302,23.90501325,90.2151312883502
+Bangladesh,Khulna,Bagherhat,Chalna Ankorage,Chalna Ankorage,9350,22.473239,89.6050839
+Bangladesh,Khulna,Bagherhat,Chalna Ankorage,Mongla Port,9351,23.90501325,90.2151312883502
+Bangladesh,Khulna,Bagherhat,Chitalmari,Barabaria,9361,23.90501325,90.2151312883502
+Bangladesh,Khulna,Bagherhat,Chitalmari,Chitalmari,9360,22.78730438,89.87878926
+Bangladesh,Khulna,Bagherhat,Fakirhat,Bhanganpar Bazar,9372,23.90501325,90.2151312883502
+Bangladesh,Khulna,Bagherhat,Fakirhat,Fakirhat,9370,22.746826,89.6720377
+Bangladesh,Khulna,Bagherhat,Fakirhat,Mansa,9371,22.79185455,89.67372385
+Bangladesh,Khulna,Bagherhat,Kachua UPO,Kachua,9310,23.90501325,90.2151312883502
+Bangladesh,Khulna,Bagherhat,Kachua UPO,Sonarkola,9311,23.90501325,90.2151312883502
+Bangladesh,Khulna,Bagherhat,Mollahat,Charkulia,9383,23.90501325,90.2151312883502
+Bangladesh,Khulna,Bagherhat,Mollahat,Dariala,9382,23.90501325,90.2151312883502
+Bangladesh,Khulna,Bagherhat,Mollahat,Kahalpur,9381,23.90501325,90.2151312883502
+Bangladesh,Khulna,Bagherhat,Mollahat,Mollahat,9380,23.90501325,90.2151312883502
+Bangladesh,Khulna,Bagherhat,Mollahat,Nagarkandi,9384,23.90501325,90.2151312883502
+Bangladesh,Khulna,Bagherhat,Mollahat,Pak Gangni,9385,23.90501325,90.2151312883502
+Bangladesh,Khulna,Bagherhat,Morelganj,Morelganj,9320,23.90501325,90.2151312883502
+Bangladesh,Khulna,Bagherhat,Morelganj,Sannasi Bazar,9321,23.90501325,90.2151312883502
+Bangladesh,Khulna,Bagherhat,Morelganj,Telisatee,9322,23.90501325,90.2151312883502
+Bangladesh,Khulna,Bagherhat,Rampal,Foylahat,9341,23.90501325,90.2151312883502
+Bangladesh,Khulna,Bagherhat,Rampal,Gourambha,9343,23.90501325,90.2151312883502
+Bangladesh,Khulna,Bagherhat,Rampal,Rampal,9340,23.90501325,90.2151312883502
+Bangladesh,Khulna,Bagherhat,Rampal,Sonatunia,9342,23.90501325,90.2151312883502
+Bangladesh,Khulna,Bagherhat,Rayenda,Rayenda,9330,22.3146405833333,89.8498243
+Bangladesh,Khulna,Chuadanga,Alamdanga,Alamdanga,7210,23.7588064090909,88.9428634181818
+Bangladesh,Khulna,Chuadanga,Alamdanga,Hardi,7211,23.90501325,90.2151312883502
+Bangladesh,Khulna,Chuadanga,Chuadanga Sadar,Chuadanga Sadar,7200,23.6347404,88.8557416
+Bangladesh,Khulna,Chuadanga,Chuadanga Sadar,Munshiganj,7201,23.90501325,90.2151312883502
+Bangladesh,Khulna,Chuadanga,Damurhuda,Andulbaria,7222,23.90501325,90.2151312883502
+Bangladesh,Khulna,Chuadanga,Damurhuda,Damurhuda,7220,23.90501325,90.2151312883502
+Bangladesh,Khulna,Chuadanga,Damurhuda,Darshana,7221,23.90501325,90.2151312883502
+Bangladesh,Khulna,Chuadanga,Doulatganj,Doulatganj,7230,23.90501325,90.2151312883502
+Bangladesh,Khulna,Jessore,Bagharpara,Bagharpara,7470,23.90501325,90.2151312883502
+Bangladesh,Khulna,Jessore,Bagharpara,Gouranagar,7471,23.90501325,90.2151312883502
+Bangladesh,Khulna,Jessore,Chaugachha,Chougachha,7410,23.2614939,89.0238421
+Bangladesh,Khulna,Jessore,Jessore Sadar,Basundia,7406,23.90501325,90.2151312883502
+Bangladesh,Khulna,Jessore,Jessore Sadar,Chanchra,7402,23.15014955,89.19961055
+Bangladesh,Khulna,Jessore,Jessore Sadar,Churamankathi,7407,23.90501325,90.2151312883502
+Bangladesh,Khulna,Jessore,Jessore Sadar,Jessore Airbach,7404,23.90501325,90.2151312883502
+Bangladesh,Khulna,Jessore,Jessore Sadar,Jessore canttonment,7403,23.90501325,90.2151312883502
+Bangladesh,Khulna,Jessore,Jessore Sadar,Jessore Sadar,7400,23.1616030253208,89.2096841141278
+Bangladesh,Khulna,Jessore,Jessore Sadar,Jessore Upa-Shahar,7401,23.90501325,90.2151312883502
+Bangladesh,Khulna,Jessore,Jessore Sadar,Rupdia,7405,23.90501325,90.2151312883502
+Bangladesh,Khulna,Jessore,Jhikargachha,Jhikargachha,7420,23.90501325,90.2151312883502
+Bangladesh,Khulna,Jessore,Keshabpur,Keshobpur,7450,22.9068677,89.2172702
+Bangladesh,Khulna,Jessore,Monirampur,Monirampur,7440,23.90501325,90.2151312883502
+Bangladesh,Khulna,Jessore,Noapara,Bhugilhat,7462,23.90501325,90.2151312883502
+Bangladesh,Khulna,Jessore,Noapara,Noapara,7460,23.90501325,90.2151312883502
+Bangladesh,Khulna,Jessore,Noapara,Rajghat,7461,23.90501325,90.2151312883502
+Bangladesh,Khulna,Jessore,Sarsa,Bag Achra,7433,23.90501325,90.2151312883502
+Bangladesh,Khulna,Jessore,Sarsa,Benapole,7431,23.03777355,88.892015925
+Bangladesh,Khulna,Jessore,Sarsa,Jadabpur,7432,23.0576687,88.991862
+Bangladesh,Khulna,Jessore,Sarsa,Sarsa,7430,23.90501325,90.2151312883502
+Bangladesh,Khulna,Jinaidaha,Harinakundu,Harinakundu,7310,23.90501325,90.2151312883502
+Bangladesh,Khulna,Jinaidaha,Jinaidaha Sadar,Jinaidaha Cadet College,7301,23.90501325,90.2151312883502
+Bangladesh,Khulna,Jinaidaha,Jinaidaha Sadar,Jinaidaha Sadar,7300,23.54140466,89.1679313
+Bangladesh,Khulna,Jinaidaha,Kotchandpur,Kotchandpur,7330,23.4078157,89.0054369
+Bangladesh,Khulna,Jinaidaha,Maheshpur,Maheshpur,7340,23.3897224,88.9471049
+Bangladesh,Khulna,Jinaidaha,Naldanga,Hatbar Bazar,7351,23.90501325,90.2151312883502
+Bangladesh,Khulna,Jinaidaha,Naldanga,Naldanga,7350,23.90501325,90.2151312883502
+Bangladesh,Khulna,Jinaidaha,Shailakupa,Kumiradaha,7321,23.90501325,90.2151312883502
+Bangladesh,Khulna,Jinaidaha,Shailakupa,Shailakupa,7320,23.90501325,90.2151312883502
+Bangladesh,Khulna,Khulna,,Indranarayanpur,8350,23.90501325,90.2151312883502
+Bangladesh,Khulna,Khulna,,Kamarhat,8720,23.90501325,90.2151312883502
+Bangladesh,Khulna,Khulna,Alaipur,Alaipur,9240,23.90501325,90.2151312883502
+Bangladesh,Khulna,Khulna,Alaipur,Belphulia,9242,23.90501325,90.2151312883502
+Bangladesh,Khulna,Khulna,Alaipur,Rupsha,9241,23.90501325,90.2151312883502
+Bangladesh,Khulna,Khulna,Batiaghat,Batiaghat,9260,22.78315826,89.54411007
+Bangladesh,Khulna,Khulna,Batiaghat,Surkalee,9261,23.90501325,90.2151312883502
+Bangladesh,Khulna,Khulna,Chalna Bazar,Bajua,9272,23.90501325,90.2151312883502
+Bangladesh,Khulna,Khulna,Chalna Bazar,Chalna Bazar,9270,22.539342,89.4449463
+Bangladesh,Khulna,Khulna,Chalna Bazar,Dakup,9271,23.90501325,90.2151312883502
+Bangladesh,Khulna,Khulna,Chalna Bazar,Nalian,9273,23.90501325,90.2151312883502
+Bangladesh,Khulna,Khulna,Digalia,Chandni Mahal,9221,23.90501325,90.2151312883502
+Bangladesh,Khulna,Khulna,Digalia,Digalia,9220,23.90501325,90.2151312883502
+Bangladesh,Khulna,Khulna,Digalia,Gazirhat,9224,23.90501325,90.2151312883502
+Bangladesh,Khulna,Khulna,Digalia,Ghoshghati,9223,23.90501325,90.2151312883502
+Bangladesh,Khulna,Khulna,Digalia,Senhati,9222,22.8761353,89.5418418
+Bangladesh,Khulna,Khulna,Khulna Sadar,Atra Shilpa Area,9207,23.90501325,90.2151312883502
+Bangladesh,Khulna,Khulna,Khulna Sadar,BIT Khulna,9203,22.89759084,89.5040745733333
+Bangladesh,Khulna,Khulna,Khulna Sadar,Doulatpur,9202,22.8706953333333,89.5233565333333
+Bangladesh,Khulna,Khulna,Khulna Sadar,Jahanabad Canttonmen,9205,23.90501325,90.2151312883502
+Bangladesh,Khulna,Khulna,Khulna Sadar,Khula Sadar,9100,22.7945933045642,89.5704445191764
+Bangladesh,Khulna,Khulna,Khulna Sadar,Khulna G.P.O,9000,22.842017405,89.5324397225
+Bangladesh,Khulna,Khulna,Khulna Sadar,Khulna Shipyard,9201,22.7804088,89.5532714
+Bangladesh,Khulna,Khulna,Khulna Sadar,Khulna University,9208,22.8034594538461,89.5340913230769
+Bangladesh,Khulna,Khulna,Khulna Sadar,Siramani,9204,23.90501325,90.2151312883502
+Bangladesh,Khulna,Khulna,Khulna Sadar,Sonali Jute Mills,9206,22.9032432,89.5119424333333
+Bangladesh,Khulna,Khulna,Madinabad,Amadee,9291,23.90501325,90.2151312883502
+Bangladesh,Khulna,Khulna,Madinabad,Madinabad,9290,23.90501325,90.2151312883502
+Bangladesh,Khulna,Khulna,Paikgachha,Chandkhali,9284,23.90501325,90.2151312883502
+Bangladesh,Khulna,Khulna,Paikgachha,Garaikhali,9285,22.6088180285714,89.4042658785714
+Bangladesh,Khulna,Khulna,Paikgachha,Godaipur,9281,23.90501325,90.2151312883502
+Bangladesh,Khulna,Khulna,Paikgachha,Kapilmoni,9282,23.90501325,90.2151312883502
+Bangladesh,Khulna,Khulna,Paikgachha,Katipara,9283,23.90501325,90.2151312883502
+Bangladesh,Khulna,Khulna,Paikgachha,Paikgachha,9280,22.5990709428571,89.3341530285714
+Bangladesh,Khulna,Khulna,Phultala,Phultala,9210,22.9736153,89.475374
+Bangladesh,Khulna,Khulna,Sajiara,Chuknagar,9252,23.90501325,90.2151312883502
+Bangladesh,Khulna,Khulna,Sajiara,Ghonabanda,9251,23.90501325,90.2151312883502
+Bangladesh,Khulna,Khulna,Sajiara,Sajiara,9250,23.90501325,90.2151312883502
+Bangladesh,Khulna,Khulna,Sajiara,Shahapur,9253,23.90501325,90.2151312883502
+Bangladesh,Khulna,Khulna,Terakhada,Pak Barasat,9231,23.90501325,90.2151312883502
+Bangladesh,Khulna,Khulna,Terakhada,Terakhada,9230,22.9536019170213,89.6579452829787
+Bangladesh,Khulna,Kustia,Bheramara,Allardarga,7042,22.8338085,89.5794517
+Bangladesh,Khulna,Kustia,Bheramara,Bheramara,7040,22.9696585,89.5653051
+Bangladesh,Khulna,Kustia,Bheramara,Ganges Bheramara,7041,22.8047054,89.590239
+Bangladesh,Khulna,Kustia,Janipur,Janipur,7020,23.7963015,89.3075026
+Bangladesh,Khulna,Kustia,Janipur,Khoksa,7021,23.90501325,90.2151312883502
+Bangladesh,Khulna,Kustia,Kumarkhali,Kumarkhali,7010,23.8530118,89.1942662
+Bangladesh,Khulna,Kustia,Kumarkhali,Panti,7011,23.90501325,90.2151312883502
+Bangladesh,Khulna,Kustia,Kustia Sadar,Islami University,7003,23.90501325,90.2151312883502
+Bangladesh,Khulna,Kustia,Kustia Sadar,Jagati,7002,23.73972715,89.01704495
+Bangladesh,Khulna,Kustia,Kustia Sadar,Kushtia Mohini,7001,23.8894569,89.1499227
+Bangladesh,Khulna,Kustia,Kustia Sadar,Kustia Sadar,7000,23.1853698,89.3992840666667
+Bangladesh,Khulna,Kustia,Mirpur,Amla Sadarpur,7032,23.90501325,90.2151312883502
+Bangladesh,Khulna,Kustia,Mirpur,Mirpur,7030,23.90501325,90.2151312883502
+Bangladesh,Khulna,Kustia,Mirpur,Poradaha,7031,23.90501325,90.2151312883502
+Bangladesh,Khulna,Kustia,Rafayetpur,Khasmathurapur,7052,24.0322993307692,88.7922358230769
+Bangladesh,Khulna,Kustia,Rafayetpur,Rafayetpur,7050,23.90501325,90.2151312883502
+Bangladesh,Khulna,Kustia,Rafayetpur,Taragunia,7051,23.90501325,90.2151312883502
+Bangladesh,Khulna,Magura,Arpara,Arpara,7620,23.90501325,90.2151312883502
+Bangladesh,Khulna,Magura,Magura Sadar,Magura Sadar,7600,23.4917339,89.4150195
+Bangladesh,Khulna,Magura,Mohammadpur,Binodpur,7631,23.90501325,90.2151312883502
+Bangladesh,Khulna,Magura,Mohammadpur,Mohammadpur,7630,23.90501325,90.2151312883502
+Bangladesh,Khulna,Magura,Mohammadpur,Nahata,7632,23.90501325,90.2151312883502
+Bangladesh,Khulna,Magura,Shripur,Langalbadh,7611,23.90501325,90.2151312883502
+Bangladesh,Khulna,Magura,Shripur,Nachol,7612,23.90501325,90.2151312883502
+Bangladesh,Khulna,Magura,Shripur,Shripur,7610,23.90501325,90.2151312883502
+Bangladesh,Khulna,Meherpur,Gangni,Gangni,7110,23.8950211,88.8065095
+Bangladesh,Khulna,Meherpur,Meherpur Sadar,Amjhupi,7152,23.90501325,90.2151312883502
+Bangladesh,Khulna,Meherpur,Meherpur Sadar,Amjhupi,7101,23.90501325,90.2151312883502
+Bangladesh,Khulna,Meherpur,Meherpur Sadar,Meherpur Sadar,7100,23.780688937931,88.6396622
+Bangladesh,Khulna,Meherpur,Meherpur Sadar,Mujib Nagar Complex,7102,23.90501325,90.2151312883502
+Bangladesh,Khulna,Narail,Kalia,Kalia,7520,23.0463692207841,89.6538538040251
+Bangladesh,Khulna,Narail,Laxmipasha,Baradia,7514,23.90501325,90.2151312883502
+Bangladesh,Khulna,Narail,Laxmipasha,Itna,7512,23.90501325,90.2151312883502
+Bangladesh,Khulna,Narail,Laxmipasha,Laxmipasha,7510,23.90501325,90.2151312883502
+Bangladesh,Khulna,Narail,Laxmipasha,Lohagora,7511,23.90501325,90.2151312883502
+Bangladesh,Khulna,Narail,Laxmipasha,Naldi,7513,23.90501325,90.2151312883502
+Bangladesh,Khulna,Narail,Mohajan,Mohajan,7521,23.90501325,90.2151312883502
+Bangladesh,Khulna,Narail,Narail Sadar,Narail Sadar,7500,23.90501325,90.2151312883502
+Bangladesh,Khulna,Narail,Narail Sadar,Ratanganj,7501,23.90501325,90.2151312883502
 Bangladesh,Khulna,Satkhira,Ashashuni,Ashashuni,9460,23.90501325,90.2151312883502
 Bangladesh,Khulna,Satkhira,Ashashuni,Baradal,9461,23.90501325,90.2151312883502
 Bangladesh,Khulna,Satkhira,Debbhata,Debbhata,9430,23.90501325,90.2151312883502
@@ -1174,18 +917,75 @@ Bangladesh,Khulna,Satkhira,Satkhira Sadar,Satkhira Islamia Acc,9401,23.90501325,
 Bangladesh,Khulna,Satkhira,Satkhira Sadar,Satkhira Sadar,9400,22.69187158,89.07573432
 Bangladesh,Khulna,Satkhira,Taala,Patkelghata,9421,23.90501325,90.2151312883502
 Bangladesh,Khulna,Satkhira,Taala,Taala,9420,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Shariatpur,Bhedorganj,Bhedorganj,8030,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Shariatpur,Damudhya,Damudhya,8040,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Shariatpur,Gosairhat,Gosairhat,8050,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Shariatpur,Jajira,Jajira,8010,23.37171556,90.29590416
-Bangladesh,Dhaka,Shariatpur,Naria,Bhozeshwar,8021,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Shariatpur,Naria,Gharisar,8022,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Shariatpur,Naria,Kartikpur,8024,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Shariatpur,Naria,Naria,8020,23.30230405,90.36097565
-Bangladesh,Dhaka,Shariatpur,Naria,Upshi,8023,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Shariatpur,Shariatpur Sadar,Angaria,8001,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Shariatpur,Shariatpur Sadar,Chikandi,8002,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Shariatpur,Shariatpur Sadar,Shariatpur Sadar,8000,23.2159398333333,90.3478598333333
+Bangladesh,Mymensingh,Jamalpur,Dewangonj,Dewangonj,2030,25.3526834,89.7904317
+Bangladesh,Mymensingh,Jamalpur,Dewangonj,Dewangonj S. Mills,2031,23.90501325,90.2151312883502
+Bangladesh,Mymensingh,Jamalpur,Islampur,Durmoot,2021,23.90501325,90.2151312883502
+Bangladesh,Mymensingh,Jamalpur,Islampur,Gilabari,2022,23.90501325,90.2151312883502
+Bangladesh,Mymensingh,Jamalpur,Islampur,Islampur,2020,23.90501325,90.2151312883502
+Bangladesh,Mymensingh,Jamalpur,Jamalpur,Jamalpur,2000,24.9244905375,89.94149309
+Bangladesh,Mymensingh,Jamalpur,Jamalpur,Nandina,2001,24.8716033,90.0344214
+Bangladesh,Mymensingh,Jamalpur,Jamalpur,Narundi,2002,23.90501325,90.2151312883502
+Bangladesh,Mymensingh,Jamalpur,Malandah,Jamalpur,2011,23.90501325,90.2151312883502
+Bangladesh,Mymensingh,Jamalpur,Malandah,Mahmoodpur,2013,23.90501325,90.2151312883502
+Bangladesh,Mymensingh,Jamalpur,Malandah,Malancha,2012,24.8903963777778,89.8709788555556
+Bangladesh,Mymensingh,Jamalpur,Malandah,Malandah,2010,23.90501325,90.2151312883502
+Bangladesh,Mymensingh,Jamalpur,Mathargonj,Balijhuri,2041,23.90501325,90.2151312883502
+Bangladesh,Mymensingh,Jamalpur,Mathargonj,Mathargonj,2040,22.6882008666667,91.7908999166667
+Bangladesh,Mymensingh,Jamalpur,Shorishabari,Bausee,2052,23.90501325,90.2151312883502
+Bangladesh,Mymensingh,Jamalpur,Shorishabari,Gunerbari,2051,23.90501325,90.2151312883502
+Bangladesh,Mymensingh,Jamalpur,Shorishabari,Jagannath Ghat,2053,23.90501325,90.2151312883502
+Bangladesh,Mymensingh,Jamalpur,Shorishabari,Jamuna Sar Karkhana,2055,23.90501325,90.2151312883502
+Bangladesh,Mymensingh,Jamalpur,Shorishabari,Pingna,2054,23.90501325,90.2151312883502
+Bangladesh,Mymensingh,Jamalpur,Shorishabari,Shorishabari,2050,24.6822285666667,89.8274655
+Bangladesh,Mymensingh,Mymensingh,Bhaluka,Bhaluka,2240,24.3718234857143,90.3887097
+Bangladesh,Mymensingh,Mymensingh,Fulbaria,Fulbaria,2216,24.6875520416667,90.2885684916667
+Bangladesh,Mymensingh,Mymensingh,Gaforgaon,Duttarbazar,2234,23.90501325,90.2151312883502
+Bangladesh,Mymensingh,Mymensingh,Gaforgaon,Gaforgaon,2230,24.4490563333333,90.5571045666667
+Bangladesh,Mymensingh,Mymensingh,Gaforgaon,Kandipara,2233,23.90501325,90.2151312883502
+Bangladesh,Mymensingh,Mymensingh,Gaforgaon,Shibganj,2231,23.90501325,90.2151312883502
+Bangladesh,Mymensingh,Mymensingh,Gaforgaon,Usti,2232,23.90501325,90.2151312883502
+Bangladesh,Mymensingh,Mymensingh,Gouripur,Gouripur,2270,24.7354739,90.50951295
+Bangladesh,Mymensingh,Mymensingh,Gouripur,Ramgopalpur,2271,23.90501325,90.2151312883502
+Bangladesh,Mymensingh,Mymensingh,Haluaghat,Dhara,2261,23.90501325,90.2151312883502
+Bangladesh,Mymensingh,Mymensingh,Haluaghat,Haluaghat,2260,25.1479862,90.4566429
+Bangladesh,Mymensingh,Mymensingh,Haluaghat,Munshirhat,2262,23.90501325,90.2151312883502
+Bangladesh,Mymensingh,Mymensingh,Isshwargonj,Atharabari,2282,23.90501325,90.2151312883502
+Bangladesh,Mymensingh,Mymensingh,Isshwargonj,Isshwargonj,2280,24.6461653045454,90.5999035681818
+Bangladesh,Mymensingh,Mymensingh,Isshwargonj,Sohagi,2281,23.90501325,90.2151312883502
+Bangladesh,Mymensingh,Mymensingh,Muktagachha,Muktagachha,2210,23.90501325,90.2151312883502
+Bangladesh,Mymensingh,Mymensingh,Mymensingh Sadar,Agriculture Universi,2202,24.7246130454545,90.4343445909091
+Bangladesh,Mymensingh,Mymensingh,Mymensingh Sadar,Biddyaganj,2204,23.90501325,90.2151312883502
+Bangladesh,Mymensingh,Mymensingh,Mymensingh Sadar,Kawatkhali,2201,23.90501325,90.2151312883502
+Bangladesh,Mymensingh,Mymensingh,Mymensingh Sadar,Mymensingh Sadar,2200,24.7555092416667,90.3963557166667
+Bangladesh,Mymensingh,Mymensingh,Mymensingh Sadar,Pearpur,2205,23.90501325,90.2151312883502
+Bangladesh,Mymensingh,Mymensingh,Mymensingh Sadar,Shombhuganj,2203,23.90501325,90.2151312883502
+Bangladesh,Mymensingh,Mymensingh,Nandail,Gangail,2291,23.90501325,90.2151312883502
+Bangladesh,Mymensingh,Mymensingh,Nandail,Nandail,2290,23.90501325,90.2151312883502
+Bangladesh,Mymensingh,Mymensingh,Phulpur,Beltia,2251,23.90501325,90.2151312883502
+Bangladesh,Mymensingh,Mymensingh,Phulpur,Phulpur,2250,24.9536235,90.35884325
+Bangladesh,Mymensingh,Mymensingh,Phulpur,Tarakanda,2252,23.90501325,90.2151312883502
+Bangladesh,Mymensingh,Mymensingh,Trishal,Ahmadbad,2221,24.6083168,90.45743025
+Bangladesh,Mymensingh,Mymensingh,Trishal,Dhala,2223,24.5153396333333,90.5009885333334
+Bangladesh,Mymensingh,Mymensingh,Trishal,Ram Amritaganj,2222,23.90501325,90.2151312883502
+Bangladesh,Mymensingh,Mymensingh,Trishal,Trishal,2220,24.6330724,90.4625035
+Bangladesh,Mymensingh,Netrakona,Atpara,Atpara,2470,24.7648021,90.9623292
+Bangladesh,Mymensingh,Netrakona,Barhatta,Barhatta,2440,23.90501325,90.2151312883502
+Bangladesh,Mymensingh,Netrakona,Dharmapasha,Dharampasha,2450,23.90501325,90.2151312883502
+Bangladesh,Mymensingh,Netrakona,Dhobaura,Dhobaura,2416,23.90501325,90.2151312883502
+Bangladesh,Mymensingh,Netrakona,Dhobaura,Sakoai,2417,23.90501325,90.2151312883502
+Bangladesh,Mymensingh,Netrakona,Kalmakanda,Kalmakanda,2430,25.0773801375,90.8867954625
+Bangladesh,Mymensingh,Netrakona,Kendua,Kendua,2480,24.6622868576923,90.8501224307692
+Bangladesh,Mymensingh,Netrakona,Khaliajuri,Khaliajhri,2460,23.90501325,90.2151312883502
+Bangladesh,Mymensingh,Netrakona,Khaliajuri,Shaldigha,2462,23.90501325,90.2151312883502
+Bangladesh,Mymensingh,Netrakona,Madan,Madan,2490,24.7165918219512,90.9506457317073
+Bangladesh,Mymensingh,Netrakona,Moddhynagar,Moddoynagar,2456,23.90501325,90.2151312883502
+Bangladesh,Mymensingh,Netrakona,Mohanganj,Mohanganj,2446,24.8752016,90.9795084
+Bangladesh,Mymensingh,Netrakona,Netrakona Sadar,Baikherhati,2401,23.90501325,90.2151312883502
+Bangladesh,Mymensingh,Netrakona,Netrakona Sadar,Netrakona Sadar,2400,24.8870691,90.7322264
+Bangladesh,Mymensingh,Netrakona,Purbadhola,Jaria Jhanjhail,2412,23.90501325,90.2151312883502
+Bangladesh,Mymensingh,Netrakona,Purbadhola,Purbadhola,2410,24.9745589,90.47918615
+Bangladesh,Mymensingh,Netrakona,Purbadhola,Shamgonj,2411,23.90501325,90.2151312883502
+Bangladesh,Mymensingh,Netrakona,Susung Durgapur,Susnng Durgapur,2420,23.90501325,90.2151312883502
 Bangladesh,Mymensingh,Sherpur,Bakshigonj,Bakshigonj,2140,25.1860335,89.8691582
 Bangladesh,Mymensingh,Sherpur,Jhinaigati,Jhinaigati,2120,23.90501325,90.2151312883502
 Bangladesh,Mymensingh,Sherpur,Nakla,Gonopaddi,2151,23.90501325,90.2151312883502
@@ -1194,6 +994,117 @@ Bangladesh,Mymensingh,Sherpur,Nalitabari,Hatibandha,2111,23.90501325,90.21513128
 Bangladesh,Mymensingh,Sherpur,Nalitabari,Nalitabari,2110,23.90501325,90.2151312883502
 Bangladesh,Mymensingh,Sherpur,Sherpur Shadar,Sherpur Shadar,2100,25.02362738,90.01526512
 Bangladesh,Mymensingh,Sherpur,Shribardi,Shribardi,2130,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Bogra,Alamdighi,Adamdighi,5890,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Bogra,Alamdighi,Nasharatpur,5892,24.8044345,89.0753687
+Bangladesh,Rajshahi,Bogra,Alamdighi,Santahar,5891,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Bogra,Bogra Sadar,Bogra Canttonment,5801,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Bogra,Bogra Sadar,Bogra Sadar,5800,24.8518764407407,89.3695843481481
+Bangladesh,Rajshahi,Bogra,Dhunat,Dhunat,5850,24.6834148,89.5393988
+Bangladesh,Rajshahi,Bogra,Dhunat,Gosaibari,5851,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Bogra,Dupchachia,Dupchachia,5880,24.894188925,89.126878275
+Bangladesh,Rajshahi,Bogra,Dupchachia,Talora,5881,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Bogra,Gabtoli,Gabtoli,5820,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Bogra,Gabtoli,Sukhanpukur,5821,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Bogra,Kahalu,Kahalu,5870,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Bogra,Nandigram,Nandigram,5860,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Bogra,Sariakandi,Chandan Baisha,5831,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Bogra,Sariakandi,Sariakandi,5830,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Bogra,Sherpur,Chandaikona,5841,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Bogra,Sherpur,Palli Unnyan Accadem,5842,24.7062006,89.3949899
+Bangladesh,Rajshahi,Bogra,Sherpur,Sherpur,5840,24.670249,89.4174000142857
+Bangladesh,Rajshahi,Bogra,Shibganj,Shibganj,5810,25.0871927222222,89.3262542333333
+Bangladesh,Rajshahi,Bogra,Sonatola,Sonatola,5826,25.0377685333333,89.5017975333333
+Bangladesh,Rajshahi,Chapinawabganj,Bholahat,Bholahat,6330,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Chapinawabganj,Chapinawabganj Sadar,Amnura,6303,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Chapinawabganj,Chapinawabganj Sadar,Chapinawbganj Sadar,6300,24.5701902125,88.3105802875
+Bangladesh,Rajshahi,Chapinawabganj,Chapinawabganj Sadar,Rajarampur,6301,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Chapinawabganj,Chapinawabganj Sadar,Ramchandrapur,6302,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Chapinawabganj,Nachol,Mandumala,6311,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Chapinawabganj,Nachol,Nachol,6310,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Chapinawabganj,Rohanpur,Gomashtapur,6321,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Chapinawabganj,Rohanpur,Rohanpur,6320,24.8395979,88.3067714
+Bangladesh,Rajshahi,Chapinawabganj,Shibganj U.P.O,Kansart,6341,24.74011784,88.18470558
+Bangladesh,Rajshahi,Chapinawabganj,Shibganj U.P.O,Manaksha,6342,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Chapinawabganj,Shibganj U.P.O,Shibganj U.P.O,6340,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Joypurhat,Akkelpur,Akklepur,5940,24.9671123,89.0239954
+Bangladesh,Rajshahi,Joypurhat,Akkelpur,jamalganj,5941,25.03459895,89.01867195
+Bangladesh,Rajshahi,Joypurhat,Akkelpur,Tilakpur,5942,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Joypurhat,Joypurhat Sadar,Joypurhat Sadar,5900,25.1020678666667,89.0300266333333
+Bangladesh,Rajshahi,Joypurhat,kalai,kalai,5930,25.1320678,89.1936939
+Bangladesh,Rajshahi,Joypurhat,Khetlal,Khetlal,5920,25.0217179,89.1537995
+Bangladesh,Rajshahi,Joypurhat,panchbibi,Panchbibi,5910,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Naogaon,Ahsanganj,Ahsanganj,6596,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Naogaon,Ahsanganj,Bandai,6597,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Naogaon,Badalgachhi,Badalgachhi,6570,25.0004275,88.96419515
+Bangladesh,Rajshahi,Naogaon,Dhamuirhat,Dhamuirhat,6580,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Naogaon,Mahadebpur,Mahadebpur,6530,24.981972925,88.7922615
+Bangladesh,Rajshahi,Naogaon,Naogaon Sadar,Naogaon Sadar,6500,24.8104561,88.93455845
+Bangladesh,Rajshahi,Naogaon,Niamatpur,Niamatpur,6520,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Naogaon,Nitpur,Nitpur,6550,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Naogaon,Nitpur,Panguria,6552,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Naogaon,Nitpur,Porsa,6551,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Naogaon,Patnitala,Patnitala,6540,25.0301133058824,88.7699371588235
+Bangladesh,Rajshahi,Naogaon,Prasadpur,Balihar,6512,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Naogaon,Prasadpur,Manda,6511,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Naogaon,Prasadpur,Prasadpur,6510,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Naogaon,Raninagar,Kashimpur,6591,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Naogaon,Raninagar,Raninagar,6590,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Naogaon,Sapahar,Moduhil,6561,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Naogaon,Sapahar,Sapahar,6560,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Natore,Gopalpur UPO,Abdulpur,6422,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Natore,Gopalpur UPO,Gopalpur U.P.O,6420,24.23382222,89.0164115
+Bangladesh,Rajshahi,Natore,Gopalpur UPO,Lalpur S.O,6421,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Natore,Harua,Baraigram,6432,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Natore,Harua,Dayarampur,6431,24.2897439,89.008877
+Bangladesh,Rajshahi,Natore,Harua,Harua,6430,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Natore,Hatgurudaspur,Hatgurudaspur,6440,24.3698333222222,89.2326025333333
+Bangladesh,Rajshahi,Natore,Laxman,Laxman,6410,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Natore,Natore Sadar,Baiddyabal Gharia,6402,24.46897535,88.9646194
+Bangladesh,Rajshahi,Natore,Natore Sadar,Digapatia,6401,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Natore,Natore Sadar,Madhnagar,6403,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Natore,Natore Sadar,Natore Sadar,6400,24.4153973,88.9944335428572
+Bangladesh,Rajshahi,Natore,Singra,Singra,6450,24.3179921043625,89.445738079043
+Bangladesh,Rajshahi,Pabna,Banwarinagar,Banwarinagar,6650,24.1603510857143,89.4496696571428
+Bangladesh,Rajshahi,Pabna,Bera,Bera,6680,24.0803835351852,89.6249392157407
+Bangladesh,Rajshahi,Pabna,Bera,Kashinathpur,6682,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Pabna,Bera,Nakalia,6681,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Pabna,Bera,Puran Bharenga,6683,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Pabna,Bhangura,Bhangura,6640,24.2615153166667,89.3629577666667
+Bangladesh,Rajshahi,Pabna,Chatmohar,Chatmohar,6630,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Pabna,Debottar,Debottar,6610,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Pabna,Ishwardi,Dhapari,6621,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Pabna,Ishwardi,Ishwardi,6620,24.1166606,89.096921
+Bangladesh,Rajshahi,Pabna,Ishwardi,Pakshi,6622,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Pabna,Ishwardi,Rajapur,6623,24.2304007,89.1199398
+Bangladesh,Rajshahi,Pabna,Pabna Sadar,Hamayetpur,6602,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Pabna,Pabna Sadar,Kaliko Cotton Mills,6601,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Pabna,Pabna Sadar,Pabna Sadar,6600,24.0181026733333,89.23626378
+Bangladesh,Rajshahi,Pabna,Sathia,Sathia,6670,23.9967136,89.4736522
+Bangladesh,Rajshahi,Pabna,Sujanagar,Sagarkandi,6661,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Pabna,Sujanagar,Sujanagar,6660,23.88746165,89.4415391
+Bangladesh,Rajshahi,Rajshahi,Bagha,Arani,6281,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Rajshahi,Bagha,Bagha,6280,24.1851672,88.852382
+Bangladesh,Rajshahi,Rajshahi,Bhabaniganj,Bhabaniganj,6250,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Rajshahi,Bhabaniganj,Taharpur,6251,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Rajshahi,Charghat,Charghat,6270,24.25921015,88.77033175
+Bangladesh,Rajshahi,Rajshahi,Charghat,Sarda,6271,24.2946781555556,88.7419258555556
+Bangladesh,Rajshahi,Rajshahi,Durgapur,Durgapur,6240,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Rajshahi,Godagari,Godagari,6290,24.4664988,88.3192174
+Bangladesh,Rajshahi,Rajshahi,Godagari,Premtoli,6291,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Rajshahi,Khod Mohanpur,Khodmohanpur,6220,24.5516014,88.67261795
+Bangladesh,Rajshahi,Rajshahi,Lalitganj,Lalitganj,6210,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Rajshahi,Lalitganj,Rajshahi Sugar Mills,6211,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Rajshahi,Lalitganj,Shyampur,6212,24.35962965,88.6768393
+Bangladesh,Rajshahi,Rajshahi,Putia,Putia,6260,24.3620799666667,88.8385442333333
+Bangladesh,Rajshahi,Rajshahi,Rajshahi Sadar,Binodpur Bazar,6206,24.365627,88.6464467
+Bangladesh,Rajshahi,Rajshahi,Rajshahi Sadar,Ghuramara,6100,24.3660778363636,88.6039353909091
+Bangladesh,Rajshahi,Rajshahi,Rajshahi Sadar,Kazla,6204,24.3635233333333,88.6329637
+Bangladesh,Rajshahi,Rajshahi,Rajshahi Sadar,Rajshahi Canttonment,6202,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Rajshahi,Rajshahi Sadar,Rajshahi Court,6201,23.90501325,90.2151312883502
+Bangladesh,Rajshahi,Rajshahi,Rajshahi Sadar,Rajshahi Sadar,6000,24.364276,88.5922052
+Bangladesh,Rajshahi,Rajshahi,Rajshahi Sadar,Rajshahi University,6205,24.3695524862069,88.6366702448276
+Bangladesh,Rajshahi,Rajshahi,Rajshahi Sadar,Sapura,6203,24.395019355,88.604697375
+Bangladesh,Rajshahi,Rajshahi,Tanor,Tanor,6230,24.6345985,88.6086019
 Bangladesh,Rajshahi,Sirajganj,Baiddya Jam Toil,Baiddya Jam Toil,6730,24.3708582,89.6724287
 Bangladesh,Rajshahi,Sirajganj,Belkuchi,Belkuchi,6740,24.30565965,89.6894501
 Bangladesh,Rajshahi,Sirajganj,Belkuchi,Enayetpur,6751,24.2243038,89.7057174
@@ -1217,6 +1128,148 @@ Bangladesh,Rajshahi,Sirajganj,Ullapara,Lahiri Mohanpur,6762,23.90501325,90.21513
 Bangladesh,Rajshahi,Sirajganj,Ullapara,Salap,6763,23.90501325,90.2151312883502
 Bangladesh,Rajshahi,Sirajganj,Ullapara,Ullapara,6760,23.90501325,90.2151312883502
 Bangladesh,Rajshahi,Sirajganj,Ullapara,Ullapara R.S,6761,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Dinajpur,Bangla Hili,Bangla Hili,5270,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Dinajpur,Biral,Biral,5210,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Dinajpur,Birampur,Birampur,5266,25.3842095,88.98902775
+Bangladesh,Rangpur,Dinajpur,Birganj,Birganj,5220,25.8649643,88.6494119
+Bangladesh,Rangpur,Dinajpur,Chrirbandar,Chrirbandar,5240,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Dinajpur,Chrirbandar,Ranirbandar,5241,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Dinajpur,Dinajpur Sadar,Dinajpur Rajbari,5201,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Dinajpur,Dinajpur Sadar,Dinajpur Sadar,5200,25.6423549294118,88.6444119205882
+Bangladesh,Rangpur,Dinajpur,Khansama,Khansama,5230,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Dinajpur,Khansama,Pakarhat,5231,25.8693582,88.7805118
+Bangladesh,Rangpur,Dinajpur,Maharajganj,Maharajganj,5226,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Dinajpur,Nababganj,Daudpur,5281,25.3775663,89.1416594
+Bangladesh,Rangpur,Dinajpur,Nababganj,Gopalpur,5282,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Dinajpur,Nababganj,Nababganj,5280,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Dinajpur,Osmanpur,Ghoraghat,5291,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Dinajpur,Osmanpur,Osmanpur,5290,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Dinajpur,Parbatipur,Parbatipur,5250,25.6569071666667,88.8994581666667
+Bangladesh,Rangpur,Dinajpur,Phulbari,Phulbari,5260,25.45579366,88.91627686
+Bangladesh,Rangpur,Dinajpur,Setabganj,Setabganj,5216,25.6260711,88.6346228
+Bangladesh,Rangpur,Gaibandha,Bonarpara,Bonarpara,5750,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Gaibandha,Bonarpara,saghata,5751,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Gaibandha,Gaibandha Sadar,Gaibandha Sadar,5700,25.36568756875,89.5226116125
+Bangladesh,Rangpur,Gaibandha,Gobindaganj,Gobindhaganj,5740,25.1357294,89.4000936
+Bangladesh,Rangpur,Gaibandha,Gobindaganj,Mahimaganj,5741,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Gaibandha,Palashbari,Palashbari,5730,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Gaibandha,Phulchhari,Bharatkhali,5761,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Gaibandha,Phulchhari,Phulchhari,5760,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Gaibandha,Saadullapur,Naldanga,5711,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Gaibandha,Saadullapur,Saadullapur,5710,25.4519628,89.38191535
+Bangladesh,Rangpur,Gaibandha,Sundarganj,Bamandanga,5721,25.5161647,89.4686408
+Bangladesh,Rangpur,Gaibandha,Sundarganj,Sundarganj,5720,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Kurigram,Bhurungamari,Bhurungamari,5670,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Kurigram,Chilmari,Chilmari,5630,25.5849678617647,89.6601961823529
+Bangladesh,Rangpur,Kurigram,Chilmari,Jorgachh,5631,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Kurigram,Kurigram Sadar,Kurigram Sadar,5600,25.7027454421053,89.5645688421053
+Bangladesh,Rangpur,Kurigram,Kurigram Sadar,Pandul,5601,25.7106819,89.5852758
+Bangladesh,Rangpur,Kurigram,Kurigram Sadar,Phulbari,5680,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Kurigram,Nageshwar,Nageshwar,5660,25.9647602,89.6895087
+Bangladesh,Rangpur,Kurigram,Rajarhat,Nazimkhan,5611,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Kurigram,Rajarhat,Rajarhat,5610,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Kurigram,Rajibpur,Rajibpur,5650,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Kurigram,Roumari,Roumari,5640,25.6512662,89.849461
+Bangladesh,Rangpur,Kurigram,Ulipur,Bazarhat,5621,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Kurigram,Ulipur,Ulipur,5620,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Lalmonirhat,Aditmari,Aditmari,5510,25.9346437,89.3788585
+Bangladesh,Rangpur,Lalmonirhat,Hatibandha,Hatibandha,5530,26.17247608,89.13580766
+Bangladesh,Rangpur,Lalmonirhat,Lalmonirhat Sadar,Kulaghat SO,5502,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Lalmonirhat,Lalmonirhat Sadar,Lalmonirhat Sadar,5500,25.9126091925926,89.4361532888889
+Bangladesh,Rangpur,Lalmonirhat,Lalmonirhat Sadar,Moghalhat,5501,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Lalmonirhat,Patgram,Baura,5541,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Lalmonirhat,Patgram,Burimari,5542,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Lalmonirhat,Patgram,Patgram,5540,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Lalmonirhat,Tushbhandar,Tushbhandar,5520,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Nilphamari,Dimla,Dimla,5350,26.2089576235294,88.9080739
+Bangladesh,Rangpur,Nilphamari,Dimla,Ghaga Kharibari,5351,26.1941476333333,88.9056140666667
+Bangladesh,Rangpur,Nilphamari,Domar,Chilahati,5341,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Nilphamari,Domar,Domar,5340,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Nilphamari,Jaldhaka,Jaldhaka,5330,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Nilphamari,Kishoriganj,Kishoriganj,5320,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Nilphamari,Nilphamari Sadar,Nilphamari Sadar,5300,25.91491325,88.8660223857143
+Bangladesh,Rangpur,Nilphamari,Nilphamari Sadar,Nilphamari Sugar Mil,5301,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Nilphamari,Syedpur,Syedpur,5310,25.7806427,88.8931204
+Bangladesh,Rangpur,Nilphamari,Syedpur,Syedpur Upashahar,5311,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Panchagarh,Boda,Boda,5010,26.2771216,88.5622984
+Bangladesh,Rangpur,Panchagarh,Chotto Dab,Chotto Dab,5040,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Panchagarh,Chotto Dab,Mirjapur,5041,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Panchagarh,Dabiganj,Dabiganj,5020,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Panchagarh,Panchagra Sadar,Panchagar Sadar,5000,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Panchagarh,Tetulia,Tetulia,5030,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Rangpur,Badarganj,Badarganj,5430,25.67675845,89.05328435
+Bangladesh,Rangpur,Rangpur,Badarganj,Shyampur,5431,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Rangpur,Gangachara,Gangachara,5410,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Rangpur,Kaunia,Haragachh,5441,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Rangpur,Kaunia,Kaunia,5440,25.73972645,89.44942485
+Bangladesh,Rangpur,Rangpur,Mithapukur,Mithapukur,5460,25.5682266266667,89.27315068
+Bangladesh,Rangpur,Rangpur,Pirgachha,Pirgachha,5450,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Rangpur,Rangpur Sadar,Alamnagar,5402,25.7388531,89.2519403
+Bangladesh,Rangpur,Rangpur,Rangpur Sadar,Mahiganj,5403,25.7245323,89.29650225
+Bangladesh,Rangpur,Rangpur,Rangpur Sadar,Rangpur Cadet Colleg,5404,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Rangpur,Rangpur Sadar,Rangpur Carmiecal Col,5405,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Rangpur,Rangpur Sadar,Rangpur Sadar,5400,25.7466755636364,89.2479198969697
+Bangladesh,Rangpur,Rangpur,Rangpur Sadar,Rangpur Upa-Shahar,5401,25.7615824166667,89.2243741833333
+Bangladesh,Rangpur,Rangpur,Taraganj,Taraganj,5420,25.8122006,89.0216669
+Bangladesh,Rangpur,Thakurgaon,Baliadangi,Baliadangi,5140,26.0861569666667,88.2768845666667
+Bangladesh,Rangpur,Thakurgaon,Baliadangi,Lahiri,5141,26.1452089,88.295206
+Bangladesh,Rangpur,Thakurgaon,Jibanpur,Jibanpur,5130,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Thakurgaon,Pirganj,Pirganj,5110,25.8873183,88.38409915
+Bangladesh,Rangpur,Thakurgaon,Pirganj,Pirganj,5470,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Thakurgaon,Rani Sankail,Nekmarad,5121,25.988228,88.2626253
+Bangladesh,Rangpur,Thakurgaon,Rani Sankail,Rani Sankail,5120,25.89865959,88.261685085
+Bangladesh,Rangpur,Thakurgaon,Thakurgaon Sadar,Ruhia,5103,23.90501325,90.2151312883502
+Bangladesh,Rangpur,Thakurgaon,Thakurgaon Sadar,Shibganj,5102,25.9619383,88.3691181
+Bangladesh,Rangpur,Thakurgaon,Thakurgaon Sadar,Thakurgaon Road,5101,26.0355135,88.4249049
+Bangladesh,Rangpur,Thakurgaon,Thakurgaon Sadar,Thakurgaon Sadar,5100,26.0302025489362,88.4656800021277
+Bangladesh,Sylhet,Hobiganj,Azmireeganj,Azmireeganj,3360,23.90501325,90.2151312883502
+Bangladesh,Sylhet,Hobiganj,Bahubal,Bahubal,3310,24.428283525,91.764363025
+Bangladesh,Sylhet,Hobiganj,Baniachang,Baniachang,3350,23.90501325,90.2151312883502
+Bangladesh,Sylhet,Hobiganj,Baniachang,Jatrapasha,3351,23.90501325,90.2151312883502
+Bangladesh,Sylhet,Hobiganj,Baniachang,Kadirganj,3352,23.90501325,90.2151312883502
+Bangladesh,Sylhet,Hobiganj,Chunarughat,Chandpurbagan,3321,23.90501325,90.2151312883502
+Bangladesh,Sylhet,Hobiganj,Chunarughat,Chunarughat,3320,23.90501325,90.2151312883502
+Bangladesh,Sylhet,Hobiganj,Chunarughat,Narapati,3322,24.23619848,91.52067026
+Bangladesh,Sylhet,Hobiganj,Hobiganj Sadar,Gopaya,3302,23.90501325,90.2151312883502
+Bangladesh,Sylhet,Hobiganj,Hobiganj Sadar,Hobiganj Sadar,3300,24.3714278111111,91.4174335777778
+Bangladesh,Sylhet,Hobiganj,Hobiganj Sadar,Shaestaganj,3301,24.2762686,91.4456677
+Bangladesh,Sylhet,Hobiganj,Kalauk,Kalauk,3340,23.90501325,90.2151312883502
+Bangladesh,Sylhet,Hobiganj,Kalauk,Lakhai,3341,23.90501325,90.2151312883502
+Bangladesh,Sylhet,Hobiganj,Madhabpur,Itakhola,3331,23.90501325,90.2151312883502
+Bangladesh,Sylhet,Hobiganj,Madhabpur,Madhabpur,3330,24.0974994666667,91.2913647
+Bangladesh,Sylhet,Hobiganj,Madhabpur,Saihamnagar,3333,24.1716779,91.3535235
+Bangladesh,Sylhet,Hobiganj,Madhabpur,Shahajibazar,3332,24.238935225,91.4018262
+Bangladesh,Sylhet,Hobiganj,Nabiganj,Digalbak,3373,23.90501325,90.2151312883502
+Bangladesh,Sylhet,Hobiganj,Nabiganj,Golduba,3372,23.90501325,90.2151312883502
+Bangladesh,Sylhet,Hobiganj,Nabiganj,Goplarbazar,3371,23.90501325,90.2151312883502
+Bangladesh,Sylhet,Hobiganj,Nabiganj,Inathganj,3374,24.6512266,91.5461324
+Bangladesh,Sylhet,Hobiganj,Nabiganj,Nabiganj,3370,24.57803465,91.5298094666667
+Bangladesh,Sylhet,Moulvibazar,Baralekha,Baralekha,3250,24.7091354,92.1898289833333
+Bangladesh,Sylhet,Moulvibazar,Baralekha,Dhakkhinbag,3252,21.1845625,92.1557715
+Bangladesh,Sylhet,Moulvibazar,Baralekha,Juri,3251,23.90501325,90.2151312883502
+Bangladesh,Sylhet,Moulvibazar,Baralekha,Purbashahabajpur,3253,23.90501325,90.2151312883502
+Bangladesh,Sylhet,Moulvibazar,Kamalganj,Kamalganj,3220,24.3282719,91.8832927666667
+Bangladesh,Sylhet,Moulvibazar,Kamalganj,Keramatnaga,3221,23.90501325,90.2151312883502
+Bangladesh,Sylhet,Moulvibazar,Kamalganj,Munshibazar,3224,23.90501325,90.2151312883502
+Bangladesh,Sylhet,Moulvibazar,Kamalganj,Patrakhola,3222,23.90501325,90.2151312883502
+Bangladesh,Sylhet,Moulvibazar,Kamalganj,Shamsher Nagar,3223,24.3444182833333,91.9773905888889
+Bangladesh,Sylhet,Moulvibazar,Kulaura,Baramchal,3237,23.90501325,90.2151312883502
+Bangladesh,Sylhet,Moulvibazar,Kulaura,Kajaldhara,3234,23.90501325,90.2151312883502
+Bangladesh,Sylhet,Moulvibazar,Kulaura,Karimpur,3235,23.90501325,90.2151312883502
+Bangladesh,Sylhet,Moulvibazar,Kulaura,Kulaura,3230,23.90501325,90.2151312883502
+Bangladesh,Sylhet,Moulvibazar,Kulaura,Langla,3232,23.90501325,90.2151312883502
+Bangladesh,Sylhet,Moulvibazar,Kulaura,Prithimpasha,3233,23.90501325,90.2151312883502
+Bangladesh,Sylhet,Moulvibazar,Kulaura,Tillagaon,3231,24.43995145,91.95459135
+Bangladesh,Sylhet,Moulvibazar,Moulvibazar Sadar,Afrozganj,3203,24.6336565222222,91.6348217777778
+Bangladesh,Sylhet,Moulvibazar,Moulvibazar Sadar,Barakapan,3201,23.90501325,90.2151312883502
+Bangladesh,Sylhet,Moulvibazar,Moulvibazar Sadar,Monumukh,3202,23.90501325,90.2151312883502
+Bangladesh,Sylhet,Moulvibazar,Moulvibazar Sadar,Moulvibazar Sadar,3200,24.4851732176471,91.7630971294118
+Bangladesh,Sylhet,Moulvibazar,Rajnagar,Rajnagar,3240,23.90501325,90.2151312883502
+Bangladesh,Sylhet,Moulvibazar,Srimangal,Kalighat,3212,24.2674884333333,91.7315268
+Bangladesh,Sylhet,Moulvibazar,Srimangal,Khejurichhara,3213,24.22406705,91.69258605
+Bangladesh,Sylhet,Moulvibazar,Srimangal,Narain Chora,3211,23.90501325,90.2151312883502
+Bangladesh,Sylhet,Moulvibazar,Srimangal,Satgaon,3214,24.4132198724138,91.6284471517241
+Bangladesh,Sylhet,Moulvibazar,Srimangal,Srimangal,3210,24.310623237931,91.7355920896552
 Bangladesh,Sylhet,Sunamganj,Bishamsarpur,Bishamsapur,3010,23.90501325,90.2151312883502
 Bangladesh,Sylhet,Sunamganj,Chhatak,Chhatak,3080,23.90501325,90.2151312883502
 Bangladesh,Sylhet,Sunamganj,Chhatak,Chhatak Cement Facto,3081,23.90501325,90.2151312883502
@@ -1230,6 +1283,7 @@ Bangladesh,Sylhet,Sunamganj,Chhatak,Khurma,3085,23.90501325,90.2151312883502
 Bangladesh,Sylhet,Sunamganj,Chhatak,Moinpur,3086,23.90501325,90.2151312883502
 Bangladesh,Sylhet,Sunamganj,Dhirai Chandpur,Dhirai Chandpur,3040,23.90501325,90.2151312883502
 Bangladesh,Sylhet,Sunamganj,Dhirai Chandpur,Jagdal,3041,23.90501325,90.2151312883502
+Bangladesh,Sylhet,Sunamganj,Duara bazar,Duara bazar,3070,25.0541405,91.5573406
 Bangladesh,Sylhet,Sunamganj,Ghungiar,Ghungiar,3050,23.90501325,90.2151312883502
 Bangladesh,Sylhet,Sunamganj,Jagnnathpur,Atuajan,3062,23.90501325,90.2151312883502
 Bangladesh,Sylhet,Sunamganj,Jagnnathpur,Hasan Fatemapur,3063,23.90501325,90.2151312883502
@@ -1296,57 +1350,3 @@ Bangladesh,Sylhet,Sylhet,Sylhet Sadar,Silam,3105,24.8648679666667,91.8569902
 Bangladesh,Sylhet,Sylhet,Sylhet Sadar,Sylhe Sadar,3100,24.8970082090909,91.8696271295454
 Bangladesh,Sylhet,Sylhet,Sylhet Sadar,Sylhet Biman Bondar,3102,23.90501325,90.2151312883502
 Bangladesh,Sylhet,Sylhet,Sylhet Sadar,Sylhet Cadet Col,3101,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Tangail,Basail,Basail,1920,24.2290922846154,90.0533928923077
-Bangladesh,Dhaka,Tangail,Bhuapur,Bhuapur,1960,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Tangail,Delduar,Delduar,1910,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Tangail,Delduar,Elasin,1913,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Tangail,Delduar,Hinga Nagar,1914,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Tangail,Delduar,Jangalia,1911,22.7235941,90.6385213
-Bangladesh,Dhaka,Tangail,Delduar,Lowhati,1915,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Tangail,Delduar,Patharail,1912,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Tangail,Ghatail,Dhalapara,1983,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Tangail,Ghatail,D. Pakutia,1982,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Tangail,Ghatail,Ghatial,1980,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Tangail,Ghatail,Lohani,1984,23.52742155,90.45593165
-Bangladesh,Dhaka,Tangail,Ghatail,Zahidganj,1981,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Tangail,Gopalpur,Gopalpur,1990,24.564634,89.917136625
-Bangladesh,Dhaka,Tangail,Gopalpur,Hemnagar,1992,25.42538815,89.375762470151
-Bangladesh,Dhaka,Tangail,Gopalpur,Jhowail,1991,22.2823715,91.7809482
-Bangladesh,Dhaka,Tangail,Kalihati,Ballabazar,1973,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Tangail,Kalihati,Elinga,1974,25.4160306,89.7776476
-Bangladesh,Dhaka,Tangail,Kalihati,Kalihati,1970,22.7236238,90.6405008
-Bangladesh,Dhaka,Tangail,Kalihati,Nagarbari,1977,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Tangail,Kalihati,Nagarbari SO,1976,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Tangail,Kalihati,Nagbari,1972,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Tangail,Kalihati,Palisha,1975,25.4196669,89.7683832
-Bangladesh,Dhaka,Tangail,Kalihati,Rajafair,1971,22.81983155,89.5443820762697
-Bangladesh,Dhaka,Tangail,Kashkaolia,Kashkawlia,1930,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Tangail,Madhupur,Dhobari,1997,24.6794477,89.9786399
-Bangladesh,Dhaka,Tangail,Madhupur,Madhupur,1996,24.62367005,90.0438496827586
-Bangladesh,Dhaka,Tangail,Mirzapur,Gorai,1941,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Tangail,Mirzapur,Jarmuki,1944,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Tangail,Mirzapur,M.C. College,1942,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Tangail,Mirzapur,Mirzapur,1940,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Tangail,Mirzapur,Mohera,1945,24.129742,90.0436449
-Bangladesh,Dhaka,Tangail,Mirzapur,Warri paikpara,1943,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Tangail,Nagarpur,Dhuburia,1937,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Tangail,Nagarpur,Nagarpur,1936,24.0592347,89.8214601
-Bangladesh,Dhaka,Tangail,Nagarpur,Salimabad,1938,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Tangail,Sakhipur,Kochua,1951,24.3677901,90.198773725
-Bangladesh,Dhaka,Tangail,Sakhipur,Sakhipur,1950,24.2235084875,90.1776182625
-Bangladesh,Dhaka,Tangail,Tangail Sadar,Kagmari,1901,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Tangail,Tangail Sadar,Korotia,1903,24.2214192444444,89.9776848333334
-Bangladesh,Dhaka,Tangail,Tangail Sadar,Purabari,1904,23.90501325,90.2151312883502
-Bangladesh,Dhaka,Tangail,Tangail Sadar,Santosh,1902,24.2394041,89.8892161
-Bangladesh,Dhaka,Tangail,Tangail Sadar,Tangail Sadar,1900,24.2569708708333,89.9177313458333
-Bangladesh,Rangpur,Thakurgaon,Baliadangi,Baliadangi,5140,26.0861569666667,88.2768845666667
-Bangladesh,Rangpur,Thakurgaon,Baliadangi,Lahiri,5141,26.1452089,88.295206
-Bangladesh,Rangpur,Thakurgaon,Jibanpur,Jibanpur,5130,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Thakurgaon,Pirganj,Pirganj,5110,25.8873183,88.38409915
-Bangladesh,Rangpur,Thakurgaon,Pirganj,Pirganj,5470,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Thakurgaon,Rani Sankail,Nekmarad,5121,25.988228,88.2626253
-Bangladesh,Rangpur,Thakurgaon,Rani Sankail,Rani Sankail,5120,25.89865959,88.261685085
-Bangladesh,Rangpur,Thakurgaon,Thakurgaon Sadar,Ruhia,5103,23.90501325,90.2151312883502
-Bangladesh,Rangpur,Thakurgaon,Thakurgaon Sadar,Shibganj,5102,25.9619383,88.3691181
-Bangladesh,Rangpur,Thakurgaon,Thakurgaon Sadar,Thakurgaon Road,5101,26.0355135,88.4249049
-Bangladesh,Rangpur,Thakurgaon,Thakurgaon Sadar,Thakurgaon Sadar,5100,26.0302025489362,88.4656800021277
